@@ -1,1 +1,150 @@
+<h1 class="chapter-title"> Chapter I <br/>
+ Finding a Place of Refuge
+ </h1> 
 
+The migration of the blacks from the Southern States to those offering them better opportunities is nothing new. The objective here, therefore, will be not merely to present the causes and results of the recent movement of the Negroes to the North but to connect this event with the periodical movements of the blacks to that section, from about the year 1815 to the present day. That this movement should date from that period indicates that the policy of the commonwealths towards the Negro must have then begun decidedly to differ so as to make one section of the country more congenial to the despised blacks than the other. As a matter of fact, to justify this conclusion, we need but give passing mention here to developments too well known to be discussed in detail. Slavery in the original thirteen States was the normal condition of the Negroes. When, however, James Otis, Patrick Henry and Thomas Jefferson began to discuss the natural rights of the colonists, then said to be oppressed by Great Britain, some of the patriots of the Revolution carried their reasoning to its logical conclusion, contending that the Negro slaves should be freed on the same grounds, as their rights were also founded in the laws of nature.[^1] And so it was soon done in most Northern commonwealths.
+ 
+Vermont, New Hampshire, and Massachusetts exterminated the institution by constitutional provision and Rhode Island, Connecticut, New Jersey, New York and Pennsylvania by gradual emancipation acts.[^2] And it was thought that the institution would soon thereafter pass away even in all southern commonwealths except South Carolina and Georgia, where it had seemingly become profitable. There came later the industrial revolution following the invention of Watt's steam engine and mechanical appliances like Whitney's cotton gin, all which changed the economic aspect of the modern world, making slavery an institution offering means of exploitation to those engaged in the production of cotton. This revolution rendered necessary a large supply of cheap labor for cotton culture, out of which the plantation system grew. The Negro slaves, therefore, lost all hope of ever winning their freedom in South Carolina and Georgia; and in Maryland, Virginia, and North Carolina, where the sentiment in favor of abolition had been favorable, there was a decided reaction which soon blighted their hopes.[^3] In the Northern commonwealths, however, the sentiment in behalf of universal freedom, though at times dormant, was ever apparent despite the attachment to the South of the trading classes of northern cities, which profited by the slave trade and their commerce with the slaveholding States. The Northern States maintaining this liberal attitude developed, therefore, into an asylum for the Negroes who were oppressed in the South.
+
+  
+
+The Negroes, however, were not generally welcomed in the North. Many of the northerners who sympathized with the oppressed blacks in the South never dreamt of having them as their neighbors. There were, consequently, always two classes of anti-slavery people, those who advocated the abolition of slavery to elevate the blacks to the dignity of citizenship, and those who merely hoped to exterminate the institution because it was an economic evil.[^4] The latter generally believed that the blacks constituted an inferior class that could not discharge the duties of citizenship, and when the proposal to incorporate the blacks into the body politic was clearly presented to these agitators their anti-slavery ardor was decidedly dampened. Unwilling, however, to take the position that a race should be doomed because of personal objections, many of the early anti-slavery group looked toward colonization for a solution of this problem.\[5\] Some thought of Africa, but since the deportation of a large number of persons who had been brought under the influence of modern civilization seemed cruel, the most popular colonization scheme at first seemed to be that of settling the Negroes on the public lands in the West. As this region had been lately ceded, however, and no one could determine what use could be made of it by white men, no such policy was generally accepted.
+
+  
+
+When this territory was ceded to the United States an effort to provide for the government of it finally culminated in the proposed Ordinance of 1784 carrying the provision that slavery should not exist in the Northwest Territory after the year 1800.\[6\] This measure finally failed to pass and fortunately too, thought some, because, had slavery been given sixteen years of growth on that soil, it might not have been abolished there until the Civil War or it might have caused such a preponderance of slave commonwealths as to make the rebellion successful. The Ordinance of 1784 was antecedent to the more important Ordinance of 1787, which carried the famous sixth article that neither slavery nor involuntary servitude except as a punishment for crime should exist in that territory. At first, it was generally deemed feasible to establish Negro colonies on that domain. Yet despite the assurance of the Ordinance of 1787 conditions were such that one could not determine exactly whether the Northwest Territory would be slave or free.\[7\]
+
+  
+
+What then was the situation in this partly unoccupied territory? Slavery existed in what is now the Northwest Territory from the time of the early exploration and settlement of that region by the French. The first slaves of white men were Indians. Though it is true that the red men usually chose death rather than slavery, there were some of them that bowed to the yoke. So many Pawnee Indians became bondsmen that the word *Pani* became synonymous with slave in the West.\[8\] Western Indians themselves, following the custom of white men, enslaved their captives in war rather than choose the alternative of putting them to death. In this way they were known to hold a number of blacks and whites.
+
+  
+
+The enslavement of the black man by the whites in this section dates from the early part of the eighteenth century. Being a part of the Louisiana Territory which under France extended over the whole Mississippi Valley as far as the Allegheny mountains, it was governed by the same colonial regulations.\[9\] Slavery, therefore, had legal standing in this territory. When Antoine Crozat, upon being placed in control of Louisiana, was authorized to begin a traffic in slaves, Crozat himself did nothing to carry out his plan. But in 1717 when the control of the colony was transferred to the *Compagnie de l'Occident* steps were taken toward the importation of slaves. In 1719, when 500 Guinea Negroes were brought over to serve in Lower Louisiana, Philip Francis Renault imported 500 other bondsmen into Upper Louisiana or what was later included in the Northwest Territory. Slavery then became more and more extensive until by 1750 there were along the Mississippi five settlements of slaves, Kaskaskia, Kaokia, Fort Chartres, St. Phillipe and Prairie du Rocher.\[10\] In 1763 Negroes were relatively numerous in the Northwest Territory but when this section that year was transferred to the British the number was diminished by the action of those Frenchmen who, unwilling to become subjects of Great Britain, moved from the territory.\[11\] There was no material increase in the slave population thereafter until the end of the eighteenth century when some Negroes came from the original thirteen.
+
+  
+
+The Ordinance of 1787 did not disturb the relation of slave and master. Some pioneers thought that the sixth article exterminated slavery there; others contended that it did not. The latter believed that such expressions in the Ordinance of 1787 as the "free inhabitants" and the "free male inhabitants of full size" implied the continuance of slavery and others found ground for its perpetuation in that clause of the Ordinance which allowed the people of the territory to adopt the constitution and laws of any one of the thirteen States. Students of law saw protection for slavery in Jay's treaty which guaranteed to the settlers their property of all kinds.\[12\] When, therefore, the slave question came up in the Northwest Territory about the close of the eighteenth century, there were three classes of slaves: first, those who were in servitude to French owners previous to the cession of the Territory to England and were still claimed as property in the possession of which the owners were protected under the treaty of 1763; second, those who were held by British owners at the time of Jay's treaty and claimed afterward as property under its protection; and third, those who, since the Territory had been controlled by the United States, had been brought from the commonwealths in which slavery was allowed.\[13\] Freedom, however, was recognized as the ultimate status of the Negro in that territory.
+
+  
+
+This question having been seemingly settled, Anthony Benezet, who for years advocated the abolition of slavery and devoted his time and means to the preparation of the Negroes for living as freedmen, was practical enough to recommend to the Congress of the Confederation a plan of colonizing the emancipated blacks on the western lands.\[14\] Jefferson incorporated into his scheme for a modern system of public schools the training of the slaves in industrial and agricultural branches to equip them for a higher station in life. He believed, however, that the blacks not being equal to the white race should not be assimilated and should they be free, they should, by all means, be colonized afar off.\[15\] Thinking that the western lands might be so used, he said in writing to James Monroe in 1801: "A very great extent of country north of the Ohio has been laid off in townships, and is now at market, according to the provisions of the act of Congress.... There is nothing," said he, "which would restrain the State of Virginia either in the purchase or the application of these lands."\[16\] Yet he raised the question as to whether the establishment of such a colony within our limits and to become a part of the Union would be desirable. He thought then of procuring a place beyond the limits of the United States on our northern boundary, by purchasing the Indian lands with the consent of Great Britain. He then doubted that the black race would live in such a rigorous climate.
+
+  
+
+This plan did not easily pass from the minds of the friends of the slaves, for in 1805 Thomas Brannagan asserted in his *Serious Remonstrances* that the government should appropriate a few thousand acres of land at some distant part of the national domains for the Negroes' accommodation and support. He believed that the new State might be established upwards of 2,000 miles from our frontier.\[17\] A copy of the pamphlet containing this proposition was sent to Thomas Jefferson, who was impressed thereby, but not having the courage to brave the torture of being branded as a friend of the slave, he failed to give it his support.\[18\] The same question was brought prominently before the public again in 1816 when there was presented to the House of Representatives a memorial from the Kentucky Abolition Society praying that the free people of color be colonized on the public lands. The committee to whom the memorial was referred for consideration reported that it was expedient to refuse the request on the ground that, as such lands were not granted to free white men, they saw no reason for granting them to others.\[19\]
+
+  
+
+Some Negro slaves unwilling to wait to be carried or invited to the Northwest Territory escaped to that section even when it was controlled by the French prior to the American Revolution. Slaves who reached the West by this route caused trouble between the French and the British colonists. Advertising in 1746 for James Wenyam, a slave, Richard Colgate, his master, said that he swore to a Negro whom he endeavored to induce to go with him, that he had often been in the backwoods with his master and that he would go to the French and Indians and fight for them.\[20\] In an advertisement for a mulatto slave in 1755 Thomas Ringold, his master, expressed fear that he had escaped by the same route to the French. He, therefore, said: "It seems to be the interest, at least, of every gentleman that has slaves, to be active in the beginning of these attempts, for whilst we have the French such near neighbors, we shall not have the least security in that kind of property."\[21\]
+
+  
+
+The good treatment which these slaves received among the French, and especially at Pittsburgh the gateway to the Northwest Territory, tended to make that city an asylum for those slaves who had sufficient spirit of adventure to brave the wilderness through which they had to go. Negroes even then had the idea that there was in this country a place of more privilege than those they enjoyed in the seaboard colonies. Knowing of the likelihood of the Negroes to rise during the French and Indian War, Governor Dinwiddie wrote Fox one of the Secretaries of State in 1756: "We dare not venture to part with any of our white men any distance, as we must have a watchful eye over our Negro slaves, who are upward of one hundred thousand."\[22\] Brissot de Warville mentions in his *Travels of 1788* several examples of marriages of white and blacks in Pittsburgh. He noted the case of a Negro who married an indentured French servant woman. Out of this union came a desirable mulatto girl who married a surgeon of Nantes then stationed at Pittsburgh. His family was considered one of the most respectable of the city. The Negro referred to was doing a creditable business and his wife took it upon herself to welcome foreigners, especially the French, who came that way. Along the Ohio also there were several cases of women of color living with unmarried white men; but this was looked upon by the Negroes as detestable as was evidenced by the fact that, if black women had a quarrel with a mulatto woman, the former would reproach the latter for being of ignoble blood.\[23\]
+
+  
+
+These tendencies, however, could not assure the Negro that the Northwest Territory was to be an asylum for freedom when in 1763 it passed into the hands of the British, the promoters of the slave trade, and later to the independent colonies, two of which had no desire to exterminate slavery. Furthermore, when the Ordinance of 1787 with its famous sixth article against slavery was proclaimed, it was soon discovered that this document was not necessarily emancipatory. As the right to hold slaves was guaranteed to those who owned them prior to the passage of the Ordinance of 1787, it was to be expected that those attached to that institution would not indifferently see it pass away. Various petitions, therefore, were sent to the territorial legislature and to Congress praying that the sixth article of the Ordinance of 1787 be abrogated.\[24\] No formal action to this effect was taken, but the practice of slavery was continued even at the winking of the government. Some slaves came from the Canadians who, in accordance with the slave trade laws of the British Empire, were supplied with bondsmen. It was the Canadians themselves who provided by act of parliament in 1793 for prohibiting the importation of slaves and for gradual emancipation. When it seemed later that the cause of freedom would eventually triumph the proslavery element undertook to perpetuate slavery through a system of indentured servant labor.
+
+  
+
+In the formation of the States of Indiana and Illinois the question as to what should be done to harmonize with the new constitution the system of indenture to which the territorial legislatures had been committed, caused heated debate and at times almost conflict. Both Indiana\[25\] and Illinois\[26\] finally incorporated into their constitutions compromise provisions for a nominal prohibition of slavery modified by clauses for the continuation of the system of indentured labor of the Negroes held to service. The proslavery party persistently struggled for some years to secure by the interpretation of the laws, by legislation and even by amending the constitution so to change the fundamental law as to provide for actual slavery. These States, however, gradually worked toward freedom in keeping with the spirit of the majority who framed the constitution, despite the fact that the indenture system in southern Illinois and especially in Indiana was at times tantamount to slavery as it was practiced in parts of the South.
+
+  
+
+It must be borne in mind here, however, that the North at this time was far from becoming a place of refuge for Negroes. In the first place, the industrial revolution had not then had time to reduce the Negroes to the plane of beasts in the cotton kingdom. The rigorous climate and the industries of the northern people, moreover, were not inviting to the blacks and the development of the carrying trade and the rise of manufacturing there did not make that section more attractive to unskilled labor. Furthermore, when we consider the fact that there were many thousands of Negroes in the Southern States the presence of a few in the North must be regarded as insignificant. This paucity of blacks then obtained especially in the Northwest Territory, for its French inhabitants instead of being an exploiting people were pioneering, having little use for slaves in carrying out their policy of merely holding the country for France. Moreover, like certain gentlemen from Virginia, who after the American Revolution were afraid to bring their slaves with them to occupy their bounty lands in Ohio, few enterprising settlers from the slave States had invaded the territory with their Negroes, not knowing whether or not they would be secure in the possession of such property. When we consider that in 1810 there were only 102,137 Negroes in the North and no more than 3,454 in the Northwest Territory, we must look to the second decade of the nineteenth century for the beginning of the migration of the Negroes in the United States.
+
+  
+[^1]: Locke, *Anti-Slavery*, pp. 19, 20, 23; *Works of John Woolman*, pp. 58, 73; and Moore, *Notes on Slavery in Massachusetts*, p. 71.
+[^2]: Bassett, *Federalist System*, chap. xii. Hart, *Slavery and Abolition*, pp. 153, 154.
+[^3]:  Turner, *The Rise of the New West*, pp. 45, 46, 47, 48, 49; Hammond, *Cotton Industry*, chaps. i and ii; Scherer, *Cotton as a World Power*, pp. 168, 175.
+[^4]: Locke, *Anti-Slavery*, chaps. i and ii.
+[^5]: Jay, *An Inquiry*, p. 30.
+
+  
+
+\[Footnote 6: Ford edition, *Jefferson's Writings*, III, p. 432.\]
+
+  
+
+\[Footnote 7: For the passage of this ordinance three reasons have been given: Slavery then prior to the invention of the cotton gin was considered a necessary evil in the South. The expected monopoly of the tobacco and indigo cultivation in the South would be promoted by excluding Negroes from the Northwest Territory and thus preventing its cultivation there. Dr. Cutler's influence aided by Mr. Grayson of Virginia was of much assistance. The philanthropic idea was not so prominent as men have thought.--Dunn, *Indiana*, p. 212.\]
+
+  
+
+\[Footnote 8: *Ibid*., p. 254.\]
+
+  
+
+\[Footnote 9: *Code Noir*.\]
+
+  
+
+\[Footnote 10: Speaking of these settlements in 1750, M. Viner, a Jesuit Missionary to the Indians, said: "We have here Whites, Negroes, and Indians, to say nothing of cross-breeds--There are five French villages and three villages of the natives within a space of twenty-one leagues--In the five French villages there are perhaps eleven hundred whites, three hundred blacks, and some sixty red slaves or savages." Unlike the condition of the slaves in Lower Louisiana where the rigid enforcement of the Slave Code made their lives almost intolerable, the slaves of the Northwest Territory were for many reasons much more fortunate. In the first place, subject to the control of a mayor-commandant appointed by the Governor of New Orleans, the early dwellers in this territory managed their plantations about as they pleased. Moreover, as there were few planters who owned as many as three or four Negroes, slavery in the Northwest Territory did not get far beyond the patriarchal stage. Slaves were usually well fed. The relations between master and slave were friendly. The bondsmen were allowed special privileges on Sundays and holidays and their children were taught the catechism according to the ordinance of Louis XIV in 1724, which provided that all masters should educate their slaves in the Apostolic Catholic religion and have them baptized. Male slaves were worked side by side in the fields with their masters and the female slaves in neat attire went with their mistresses to matins and vespers. Slaves freely mingled in practically all festive enjoyments.--See *Jesuit Relations*, LXIX, p. 144; Hutchins, *An Historical Narrative*, 1784; and *Code Noir*.\]
+
+  
+
+\[Footnote 11: Mention was thereafter made of slaves as in the case of Captain Philip Pittman who in 1770 wrote of one Mr. Beauvais, "who owned 240 orpens of cultivated land and eighty slaves; and such a case as that of a Captain of a militia at St. Philips, possessing twenty blacks; and the case of Mr. Bales, a very rich man of St. Genevieve, Illinois, owning a hundred Negroes, beside having white people constantly employed."--See Captain Pittman's *The Present State of the European Settlements in the Mississippi*, 1770.\]
+
+  
+
+\[Footnote 12: Dunn, *Indiana*, chap. vi.\]
+
+  
+
+\[Footnote 13: Hinsdale, *Old Northwest*, p. 350.\]
+
+  
+
+\[Footnote 14: *Tyrannical Libertymen*, pp. 10, 11; Locke, *Anti-Slavery*, pp. 31, 32; Brannagan, *Serious Remonstrance*, p. 18.\]
+
+  
+
+\[Footnote 15: Washington edition of *Jefferson's Writings*, chap. vi, p. 456, and chap. viii, p. 380.\]
+
+  
+
+\[Footnote 16: Ford edition of *Jefferson's Writings*, III, p. 244; IX, p. 303; X, pp. 76, 290.\]
+
+  
+
+\[Footnote 17: Brannagan, *Serious Remonstrances*, p. 18.\]
+
+  
+
+\[Footnote 18: Library edition of *Jefferson's Writings*, X, pp. 295, 296.\]
+
+  
+
+\[Footnote 19: Adams, *Neglected Period of Anti-Slavery*, pp. 129, 130.\]
+
+  
+
+\[Footnote 20: *The Pennsylvania Gazette*, July 31, 1746.\]
+
+  
+
+\[Footnote 21: *The Maryland Gazette*, March 20, 1755.\]
+
+  
+
+\[Footnote 22: *Washington's Writings*, II, p. 134.\]
+
+  
+
+\[Footnote 23: Brissot de Warville, *New Travels*, II, pp. 33-34.\]
+
+  
+
+\[Footnote 24: Harris, *Slavery in Illinois*, chaps. iii, iv, and v; Dunn, *Indiana*, pp. 218-260; Hinsdale, *Old Northwest*, pp. 351-358.\]
+
+  
+
+\[Footnote 25: This code provided that all male Negroes under fifteen, years of age either owned or acquired must remain in servitude until they reached the age of thirty-five and female slaves until thirty-two. The male children of such persons held to service could be bound out for thirty years and the female children for twenty-eight. Slaves brought into the territory had to comply with contracts for terms of service when their master registered them within thirty days from the time he brought them into the territory. Indentured black servants were not exactly sold, but the law permitted the transfer from one owner to another when the slave acquiesced in the transfer before a notary, but it was often done without regard to the slave. They were even bequeathed and sold as personal property at auction. Notices for sale were frequent. There were rewards for runaway slaves. Negroes whose terms had almost expired were kidnapped and sold to New Orleans. The legislature imposed a penalty for such, but it was not generally enforced. They were taxable property valued according to the length of service. Negroes served as laborers on farms, house servants, and in salt mines, the latter being an excuse for holding them as slaves. Persons of color could purchase servants of their own race. The law provided that the Justice of the County could on complaint from the master order that a lazy servant be whipped. In this frontier section, therefore, where men often took the law in their own hands, slaves were often punished and abused just as they were in the Southern States. The law dealing with fugitives was somewhat harsh. When apprehended, fugitives had to serve two days extra for each day they lost from their master's service. The harboring of a runaway slave was punishable by a fine of one day for each the slave might be concealed. Consistently too with the provision of the laws in most slave States, slaves could retain all goods or money lawfully acquired during their servitude provided their master gave his consent. Upon the demonstration of proof to the county court that they had served their term they could obtain from that tribunal certificates of freedom. See *The Laws of Indiana*.\]
+
+  
+
+\[Footnote 26: Masters had to provide adequate food, and clothing and good lodging for the slave, but the penalty for failing to comply with this law was not clear and even if so, it happened that many masters never observed it. There was also an effort to prevent cruelty to slaves, but it was difficult to establish the guilt of masters when the slave could not bear witness against his owner and it was not likely that the neighbor equally guilty or indifferent to the complaints of the blacks would take their petitions to court.
+
+  
+
+Under this system a large number of slaves were brought into the Territory especially after 1807. There were 135 in 1800. This increase came from Kentucky and Tennessee. As those brought were largely boys and girls with a long period of service, this form of slavery was assured for some years. The children of these blacks were often registered for thirty-five instead of thirty years of service on the ground that they were not born in Illinois. No one thought of persecuting a master for holding servants unlawfully and Negroes themselves could be easily deceived. Very few settlers brought their slaves there to free them. There were only 749 in 1820. If one considers the proportion of this to the number brought there for manumission this seems hardly true. It is better to say that during these first two decades of the nineteenth century some settlers came for both purposes, some to hold slaves, some, as Edward Coles, to free them. It was not only practiced in the southern part along the Mississippi and Ohio but as far north in Illinois as Sangamon County, were found servants known as "yellow boys" and "colored girls."--See the *Laws of Illinois*.\]
