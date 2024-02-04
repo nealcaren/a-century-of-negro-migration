@@ -2,9 +2,6 @@
 
 <!--
 2/2: First upload and some footnotes - NPC 
-<h1 class="chapter-title"> Chapter I <br/>
- Finding a Place of Refuge
- </h1> 
 -->
 
 
