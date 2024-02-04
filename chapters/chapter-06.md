@@ -1,7 +1,5 @@
 
-CHAPTER VI
-
-CONFUSING MOVEMENTS
+# Confusing Movements
 
 The Civil War waged largely in the South started the most exciting movement of the Negroes hitherto known. The invading Union forces drove the masters before them, leaving the slaves and sometimes poor whites to escape where they would or to remain in helpless condition to constitute a problem for the northern army.\[1\] Many poor whites of the border States went with the Confederacy, not always because they wanted to enter the war, but to choose what they considered the lesser of two evils. The slaves soon realized a community of interests with the Union forces sent, as they thought, to deliver them from thralldom. At first, it was difficult to determine a fixed policy for dealing with these fugitives. To drive them away was an easy matter, but this did not solve the problem. General Butler's action at Fortress Monroe in 1861, however, anticipated the policy finally adopted by the Union forces.\[2\] Hearing that three fugitive slaves who were received into his lines were to have been employed in building fortifications for the Confederate army, he declared them seized as contraband of war rather than declare them actually free as did General Fremont\[3\] and General Hunter.\[4\] He then gave them employment for wages and rations and appropriated to the support of the unemployed a portion of the earnings of the laborers. This policy was followed by General Wood, Butler's successor, and by General Banks in New Orleans.
 

@@ -10,6 +10,13 @@ book:
     - index.md
     - chapters/chapter-01.md
     - chapters/chapter-02.md
+    - chapters/chapter-03.md
+    - chapters/chapter-04.md
+    - chapters/chapter-05.md
+    - chapters/chapter-06.md
+    - chapters/chapter-07.md
+    - chapters/chapter-08.md
+    - chapters/chapter-09.md
 
 
 format:

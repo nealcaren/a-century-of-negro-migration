@@ -1,7 +1,5 @@
 
-CHAPTER VII
-
-THE EXODUS TO THE WEST
+# The Exodus to the West
 
 Having come through the halcyon days of the Reconstruction only to find themselves reduced almost to the status of slaves, many Negroes deserted the South for the promising west to grow up with the country. The immediate causes were doubtless political. *Bulldozing*, a rather vague term, covering all such crimes as political injustice and persecution, was the source of most complaint. The abridgment of the Negroes' rights had affected them as a great calamity. They had learned that voting is one of the highest privileges to be obtained in this life and they wanted to go where they might still exercise that privilege. That persecution was the main cause was disputed, however, as there were cases of Negroes migrating from parts where no such conditions obtained. Yet some of the whites giving their version of the situation admitted that violent methods had been used so to intimidate the Negroes as to compel them to vote according to the dictation of the whites. It was also learned that the *bulldozers* concerned in dethroning the non-taxpaying blacks were an impecunious and irresponsible group themselves, led by men of the wealthy class.\[1\]
 

@@ -1,7 +1,4 @@
-
-CHAPTER IX
-
-THE EXODUS DURING THE WORLD WAR
+# The Exodus During the World War
 
 Within the last two years there has been a steady stream of Negroes into the North in such large numbers as to overshadow in its results all other movements of the kind in the United States. These Negroes have come largely from Alabama, Tennessee, Florida, Georgia, Virginia, North Carolina, Kentucky, South Carolina, Arkansas and Mississippi. The given causes of this migration are numerous and complicated. Some untruths centering around this exodus have not been unlike those of other migrations. Again we hear that the Negroes are being brought North to fight organized labor,\[1\] and to carry doubtful States for the Republicans.\[2\] These numerous explanations themselves, however, give rise to doubt as to the fundamental cause.
 

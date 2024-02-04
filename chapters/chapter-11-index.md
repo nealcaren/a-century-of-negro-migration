@@ -1,5 +1,5 @@
 
-INDEX
+# Index
 
 Adams, Henry, leader of the exodus to Kansas,
 
