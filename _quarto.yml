@@ -1,0 +1,20 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "A Century of Negro Migration"
+  author: "Carter Woodson"
+  date: "3/31/1918"
+  chapters:
+    - index.md
+    - chapters/chapter-01.md
+    - chapters/chapter-02.md
+
+
+format:
+  html:
+    theme: cosmo
+    number-sections: true
+
+
