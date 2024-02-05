@@ -392,11 +392,9 @@ Wright, R.R., Jr. *The Negro in Pennsylvania*. (Philadelphia, 1912.)
 
 *The African Methodist Episcopal Church Review*. The following articles:
 
-    _The Negro as an Inventor_. By R. R. Wright, vol. ii, p. 397.
-
-    _Negro Poets_, vol. iv, p. 236.
-
-    _The Negro in Journalism_, vols. vi, p. 309, and xx, p. 137.
+* _The Negro as an Inventor_. By R. R. Wright, vol. ii, p. 397.
+* _Negro Poets_, vol. iv, p. 236.
+* _The Negro in Journalism_, vols. vi, p. 309, and xx, p. 137.
 
 *The African Repository*; Published by the American Colonization Society from 1826 to 1832. A very good source for Negro history both in this country and Liberia. Some of its most valuable articles are:
 
