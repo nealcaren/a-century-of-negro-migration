@@ -20,7 +20,7 @@ With the hope that this volume may interest another worker to the extent of publ
 Washington, D.C., March 31, 1918
 
 
-<div style="text-align: center; font-style: italic;">
+<div class="dedication">
 <p>To My Father</p>
 <p><strong>James Woodson</strong></p>
 <p>Who Made It Possible for Me</p>

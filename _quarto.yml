@@ -21,7 +21,10 @@ book:
 
 format:
   html:
-    theme: cosmo
+    theme:
+      - litera
+      - custom.scss
+
     number-sections: true
 
 
