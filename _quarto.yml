@@ -22,7 +22,7 @@ book:
 format:
   html:
     theme:
-      - litera
+      - cosmo
       - custom.scss
 
     number-sections: true
