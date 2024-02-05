@@ -5,6 +5,7 @@ __pycache__/
 
 /.quarto/
 /_site/
+/_book/
 
 # C extensions
 *.so
@@ -168,3 +169,4 @@ cython_debug/
 .DS_Store
 .DS_Store
 .DS_Store
+_book/chapters/chapter-01.html
