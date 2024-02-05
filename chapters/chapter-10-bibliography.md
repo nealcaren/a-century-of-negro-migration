@@ -1,4 +1,4 @@
-# Bibliography
+# Bibliography {.unnumbered}
 
 As the public has not as yet paid very much attention to Negro History, and has not seen a volume dealing primarily with the migration of the race in America, one could hardly expect that there has been compiled a bibliography in this special field. With the exception of what appears in Still's and Siebert's works on the *Underground Railroad* and the records of the meetings of the Quakers promoting this movement, there is little helpful material to be found in single volumes bearing on the antebellum period. Since the Civil War, however, more has been said and written concerning the movements of the Negro population. E.H. Botume's *First Days Among the Contrabands* and John Eaton's *Grant, Lincoln and the Freedmen* cover very well the period of rebellion. This is supplemented by J.C. Knowlton's *Contrabands* in the *University Quarterly*, Volume XXI, page 307, and by Edward L. Pierce's *The Freedmen at Port Royal* in the *Atlantic Monthly*, Volume XII, page 291. The exodus of 1879 is treated by J.B. Runnion in the *Atlantic Monthly*, Volume XLIV, page 222; by Frederick Douglass and Richard T. Greener in the *American Journal of Social Science*, Volume XI, page 1; by F.R. Guernsey in the *International Review*, Volume VII, page 373; by E.L. Godkin in the *Nation*, Volume XXVIII, pages 242 and 386; and by J.C. Hartzell in the *Methodist Quarterly*, Volume XXXIX, page 722. The second volume of George W. Williams's *History of the Negro Race* also contains a short chapter on the exodus of 1879. In Volume XVIII, page 370, of *Public Opinion* there is a discussion of *Negro Emigration and Deportation* as advocated by Bishop H.M. Turner and Senator Morgan of Alabama during the nineties. Professor William O. Scroggs of Louisiana University has in the *Journal of Political Economy*, Volume XXV, page 1034, an article entitled *Interstate Migration of Negro Population*. Mr. Epstein has published a helpful pamphlet, *The Negro Migrant in Pittsburgh*. Most of the material for this work, however, was collected from the various sources mentioned below.
 
@@ -182,23 +182,23 @@ Baldwin, Ebenezer. *Observations on the Physical and Moral Qualities of our Colo
 
 Bassett, J. S. *Slavery and Servitude in the Colony of North Carolina*. (Johns Hopkins University Studies in Historical and Political Science. Fourteenth Series, iv-v. Baltimore, 1896.)
 
-------*Slavery in the State of North Carolina*. (Johns Hopkins University Studies in Historical and Political Science. Series XVII., Nos. 7-8. Baltimore, 1899.)
+---. *Slavery in the State of North Carolina*. (Johns Hopkins University Studies in Historical and Political Science. Series XVII., Nos. 7-8. Baltimore, 1899.)
 
-------*Anti-Slavery Leaders of North Carolina*. (Johns Hopkins University Studies in Historical and Political Science. Series XVI., No. 6. Baltimore, 1898.)
+---. *Anti-Slavery Leaders of North Carolina*. (Johns Hopkins University Studies in Historical and Political Science. Series XVI., No. 6. Baltimore, 1898.)
 
 Benezet, Anthony. *A Caution to Great Britain and Her Colonies in a Short Representation of the calamitous State of the enslaved Negro in the British Dominions*. (Philadelphia, 1784.)
 
-------*The Case of our Fellow-Creatures, the oppressed Africans, respectfully recommended to the serious Consideration of the Legislature of Great Britain, by the People called Quakers*. (London, 1783.)
+---. *The Case of our Fellow-Creatures, the oppressed Africans, respectfully recommended to the serious Consideration of the Legislature of Great Britain, by the People called Quakers*. (London, 1783.)
 
-------*Observations on the enslaving, Importing and Purchasing of Negroes; with some Advice thereon, extracted from the Epistle of the Yearly-Meeting of the People called Quakers, held at London in the Year 1748*. (Germantown, 1760.)
+---. *Observations on the enslaving, Importing and Purchasing of Negroes; with some Advice thereon, extracted from the Epistle of the Yearly-Meeting of the People called Quakers, held at London in the Year 1748*. (Germantown, 1760.)
 
-------*The Potent Enemies of America laid open: being some Account of the baneful Effects attending the Use of distilled spirituous Liquors, and the Slavery of the Negroes*. (Philadelphia.)
+---. *The Potent Enemies of America laid open: being some Account of the baneful Effects attending the Use of distilled spirituous Liquors, and the Slavery of the Negroes*. (Philadelphia.)
 
-------*A Short Account of that Part of Africa, inhabited by the Negroes. With respect to the Fertility of the Country; the good Disposition of many of the Natives, and the Manner by which the Slave Trade is carried on*. (Philadelphia, 1792)
+---. *A Short Account of that Part of Africa, inhabited by the Negroes. With respect to the Fertility of the Country; the good Disposition of many of the Natives, and the Manner by which the Slave Trade is carried on*. (Philadelphia, 1792)
 
-------*Short Observations on Slavery, introductory to Some Extracts from the Writings of the Abbé Raynal, on the Important Subject*.
+---. *Short Observations on Slavery, introductory to Some Extracts from the Writings of the Abbé Raynal, on the Important Subject*.
 
-------*Some Historical Account of Guinea, its Situation, Produce, and the General Disposition of its Inhabitants. With an Inquiry into the Rise and Progress of the Slave Trade, its Nature and Lamentable Effects*. (London, 1788.)
+---. *Some Historical Account of Guinea, its Situation, Produce, and the General Disposition of its Inhabitants. With an Inquiry into the Rise and Progress of the Slave Trade, its Nature and Lamentable Effects*. (London, 1788.)
 
 Birney, James G. *The American Churches, the Bulwarks of American Slavery, by an American*. (Newburyport, 1842.)
 
@@ -238,13 +238,13 @@ Delany, M.R. *The Condition, Elevation, Emigration and Destiny of the Colored Pe
 
 DuBois, W.E.B. *The Philadelphia Negro: A Social Study. Together with a special report on domestic service by Isabel Eaton*. (Philadelphia, 1899.)
 
-------Atlanta University Publications, *The Negro Common School*. (Atlanta, 1901.)
+---. Atlanta University Publications, *The Negro Common School*. (Atlanta, 1901.)
 
-------*The Negro Church*. (Atlanta, 1903.)
+---. *The Negro Church*. (Atlanta, 1903.)
 
-------and Dill, A.G. *The College-Bred Negro American*. (Atlanta, 1910.)
+---. and Dill, A.G. *The College-Bred Negro American*. (Atlanta, 1910.)
 
-------*The Negro American Artisan*. (Atlanta, 1912.)
+---. *The Negro American Artisan*. (Atlanta, 1912.)
 
 De Toqueville, Alexis Charles Henri Maurice Clerel De. *Democracy in America*. Translated by Henry Reeve. Four volumes. (London, 1835, 1840.)
 
@@ -350,15 +350,15 @@ Still, William. *The Underground Railroad*. (Philadelphia, 1872.) This is a reco
 
 Thompson, George. *Speech at the Meeting for the Extension of Negro Apprenticeship*. (London, 1838.)
 
-------*The Free Church Alliance with Manstealers. Send back the Money. Great Anti-Slavery Meeting in the City Hall, Glasgow, containing the Speeches delivered by Messrs. Wright, Douglass, and Buffum from America, and by George Thompson of London, with a Summary Account of a Series of Meetings held in Edinburgh by the above named Gentlemen.* (Glasgow, 1846.)
+---. *The Free Church Alliance with Manstealers. Send back the Money. Great Anti-Slavery Meeting in the City Hall, Glasgow, containing the Speeches delivered by Messrs. Wright, Douglass, and Buffum from America, and by George Thompson of London, with a Summary Account of a Series of Meetings held in Edinburgh by the above named Gentlemen.* (Glasgow, 1846.)
 
 Torrey, Jesse, Jr. *A Portraiture of Domestic Slavery in the United States with Reflections on the Practicability of restoring the Moral Rights of the Slave, without impairing the legal Privileges of the Possessor, and a Project of a Colonial Asylum for Free Persons of Color, including Memoirs of Facts on the Interior Traffic in Slaves and on Kidnapping, Illustrated with Engravings by Jesse Torrey, Jr., Physician, Author of a Series of Essays on Morals and the Diffusion of Knowledge*. (Philadelphia, 1817.)
 
-------*American Internal Slave Trade; with Reflections on the project for forming a Colony of Blacks in Africa*. (London, 1822.)
+---. *American Internal Slave Trade; with Reflections on the project for forming a Colony of Blacks in Africa*. (London, 1822.)
 
 Turner, E.R. *The Negro in Pennsylvania*. (Washington, 1911.)
 
-*Tyrannical Libertymen: a Discourse upon Negro Slavery in the United States, composed at ------ in New Hampshire: on the Late Federal Thanksgiving Day*. (Hanover, N. H., 1795.)
+*Tyrannical Libertymen: a Discourse upon Negro Slavery in the United States, composed at ---.  in New Hampshire: on the Late Federal Thanksgiving Day*. (Hanover, N. H., 1795.)
 
 Walker, David. *Walker's Appeal in Four Articles, together with a Preamble to the Colored Citizens of the World, but in particular and very expressly to those of the United States of America, Written in Boston, State of Massachusetts, September 28, 1829*. Second edition. (Boston, 1830.) Walker was a Negro who hoped to arouse his race to self-assertion.
 
@@ -370,21 +370,21 @@ Washington, George. *The Writings of George Washington, being his Correspondence
 
 Weeks, Stephen B. *Southern Quakers and Slavery. A Study in Institutional History*. (Baltimore, The Johns Hopkins Press, 1896.)
 
-------*The Anti-Slavery Sentiment in the South; with Unpublished Letters from John Stuart Mill and Mrs. Stowe*. (Southern History Association Publications, Volume ii, No. 2, Washington, D.C., April, 1898.)
+---. *The Anti-Slavery Sentiment in the South; with Unpublished Letters from John Stuart Mill and Mrs. Stowe*. (Southern History Association Publications, Volume ii, No. 2, Washington, D.C., April, 1898.)
 
 Williams, G.W. *A History of the Negro Troops in the War of the Rebellion, 1861-1865, preceded by a Review of the military Services of Negroes in ancient and modern Times*. (New York, 1888.)
 
-------*History of the Negro Race in the United States from 1619-1880. Negroes as Slaves, as Soldiers, and as Citizens: together with a preliminary Consideration of the Unity of the Human Family, an historical Sketch of Africa and an Account of the Negro Governments of Sierra Leone and Liberia*. (New York, 1883.)
+---. *History of the Negro Race in the United States from 1619-1880. Negroes as Slaves, as Soldiers, and as Citizens: together with a preliminary Consideration of the Unity of the Human Family, an historical Sketch of Africa and an Account of the Negro Governments of Sierra Leone and Liberia*. (New York, 1883.)
 
 Woodson, C.G. *The Education of the Negro Prior to 1861*. (New York and London, 1915.) This is a history of the Education of the Colored People of the United States from the beginning of slavery to the Civil War.
 
 Woolman, John. *The Works of John Woolman. In two Parts, Part I: A Journal of the Life, Gospel-Labors, and Christian Experiences of that faithful Minister of Christ, John Woolman, late of Mount Holly in the Province of New Jersey*. (London, 1775.)
 
-------*Same, Part Second. Containing his last Epistle and other Writings*. (London, 1775.)
+---. *Same, Part Second. Containing his last Epistle and other Writings*. (London, 1775.)
 
-------*Some Considerations on the Keeping of Negroes. Recommended to the Professors of Christianity of every Denomination*. (Philadelphia, 1754.)
+---. *Some Considerations on the Keeping of Negroes. Recommended to the Professors of Christianity of every Denomination*. (Philadelphia, 1754.)
 
-------*Considerations on Keeping Negroes; Recommended to the Professors of Christianity of every Denomination. Part the Second*. (Philadelphia, 1762.)
+---. *Considerations on Keeping Negroes; Recommended to the Professors of Christianity of every Denomination. Part the Second*. (Philadelphia, 1762.)
 
 Wright, R.R., Jr. *The Negro in Pennsylvania*. (Philadelphia, 1912.)
 
@@ -400,17 +400,10 @@ Wright, R.R., Jr. *The Negro in Pennsylvania*. (Philadelphia, 1912.)
 
 *The African Repository*; Published by the American Colonization Society from 1826 to 1832. A very good source for Negro history both in this country and Liberia. Some of its most valuable articles are:
 
-    _Learn Trades or Starve_, by Frederick Douglass, vol. xxix,
-    p. 137. Taken from Frederick Douglass's Paper.
-
-    _Education of the Colored People_, by a highly respectable
-    gentleman of the South, vol. xxx, pp. 194, 195 and 196.
-
-    _Elevation of the Colored Race_, a memorial circulated in
-    North Carolina, vol. xxxi, pp. 117 and 118.
-
-    _A lawyer for Liberia_, a sketch of Garrison Draper, vol.
-    xxxiv, pp. 26 and 27.
+* _Learn Trades or Starve_, by Frederick Douglass, vol. xxix, p. 137. Taken from Frederick Douglass's Paper.
+* _Education of the Colored People_, by a highly respectable gentleman of the South, vol. xxx, pp. 194, 195 and 196.
+* _Elevation of the Colored Race_, a memorial circulated in North Carolina, vol. xxxi, pp. 117 and 118.
+* _A lawyer for Liberia_, a sketch of Garrison Draper, vol. xxxiv, pp. 26 and 27.
 
 *The American Economic Review*.
 
