@@ -1,6 +1,5 @@
 # The Migration of the Talented Tenth
 
-!
 
 ![](audio/a-century-of-negro-migration-08.mp3)
 
