@@ -1,5 +1,9 @@
 # Fighting It Out on Free Soil
 
+
+![](audio/a-century-of-negro-migration-03.mp3)
+
+
 How, then, was this increasing influx of refugees from the South to be received in the free States? In the older Northern States where there could be no danger of an Africanization of a large district, the coming of the Negroes did not cause general excitement, though at times the feeling in certain localities was sufficient to make one think so.\[1\] Fearing that the immigration of the Negroes into the North might so increase their numbers as to make them constitute a rather important part in the community, however, some free States enacted laws to restrict the privileges of the blacks.
 
 Free Negroes had voted in all the colonies except Georgia and South Carolina, if they had the property qualification; but after the sentiment attendant upon the struggle for the rights of man had passed away there set in a reaction.\[2\] Delaware, Maryland, Virginia and Kentucky disfranchised all Negroes not long after the Revolution. They voted in North Carolina until 1835, when the State, feeling that this privilege of one class of Negroes might affect the enslavement of the other, prohibited it. The Northern States, following in their wake, set up the same barriers against the blacks. They were disfranchised in New Jersey in 1807, in Connecticut in 1814, and in Pennsylvania in 1838. In 1811 New York passed an act requiring the production of certificates of freedom from blacks or mulattoes offering to vote. The second constitution, adopted in 1823, provided that no man of color, unless he had been for three years a citizen of that State and for one year next preceding any election, should be seized and possessed of a freehold estate, should be allowed to vote, although this qualification was not required of the whites. An act of 1824 relating to the government of the Stockbridge Indians provided that no Negro or mulatto should vote in their councils.\[3\]

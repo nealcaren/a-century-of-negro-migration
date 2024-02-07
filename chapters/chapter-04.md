@@ -1,5 +1,10 @@
 # Colonization as a Remedy for&nbsp;Migration
 
+
+
+![](audio/a-century-of-negro-migration-04.mp3)
+
+
 Because of these untoward circumstances consequent to the immigration of free Negroes and fugitives into the North, their enemies, and in some cases their well-intentioned friends, advocated the diversion of these elements to foreign soil. Benezet and Brannagan had the idea of settling the Negroes on the public lands in the West largely to relieve the situation in the North.\[1\] Certain anti-slavery men of Kentucky, as we have observed, recommended the same. But this was hardly advocated at all by the farseeing white men after the close of the first quarter of the nineteenth century. It was by that time very clear that white men would want to occupy all lands within the present limits of the United States. Few statesmen dared to encourage migration to Canada because the large number of fugitives who had already escaped there had attached to that region the stigma of being an asylum for fugitives from the slave States.
 
 The most influential people who gave thought to this question finally decided that the colonization of the Negro in Africa was the only solution of the problem. The plan of African colonization appealed more generally to the people of both North and South than the other efforts, which, at best, could do no more than to offer local or temporary relief. The African colonizationists proceeded on the basis that the Negroes had no chance for racial development in this country. They could secure no kind of honorable employment, could not associate with congenial white friends whose minds and pursuits might operate as a stimulus upon their industry and could not rise to the level of the successful professional or business men found around them. In short, they must ever be hewers of wood and drawers of water.\[2\]
