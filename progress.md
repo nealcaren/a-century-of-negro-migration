@@ -1,8 +1,7 @@
 # Revision Progress {.unnumbered}
 
-Rollcall
+## Rollcall
 - Neal Caren: NPC
-- Steve Winwood: SW
 
-2/8
+## 2/8
 - Neal Caren created workflow.
