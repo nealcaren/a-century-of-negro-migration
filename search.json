@@ -204,7 +204,27 @@
     "href": "progress.html",
     "title": "Revision Progress",
     "section": "",
-    "text": "Rollcall - Neal Caren: NPC - Steve Winwood: SW\n2/8 - Neal Caren created workflow.",
+    "text": "Rollcall",
+    "crumbs": [
+      "Revision Progress"
+    ]
+  },
+  {
+    "objectID": "progress.html#rollcall",
+    "href": "progress.html#rollcall",
+    "title": "Revision Progress",
+    "section": "",
+    "text": "Neal Caren: NPC",
+    "crumbs": [
+      "Revision Progress"
+    ]
+  },
+  {
+    "objectID": "progress.html#section",
+    "href": "progress.html#section",
+    "title": "Revision Progress",
+    "section": "2/8",
+    "text": "2/8\n\nNeal Caren created workflow.",
     "crumbs": [
       "Revision Progress"
     ]
