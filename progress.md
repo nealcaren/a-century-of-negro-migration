@@ -6,7 +6,7 @@
 ## Chapter Status
 
 ### Chapter 1
-- Footnotes:
+- Footnotes: Formatting corrected, but still need to do Roman numeral correction (NPC).
 - Accuracy:
 - Audio:
 - Other:
