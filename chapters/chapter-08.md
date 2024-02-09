@@ -36,8 +36,8 @@ These restrictions have made the progress of the Negroes more of a problem in th
 
 For these reasons there has been since the exodus to the West a steady migration of Negroes from the South to points in the North. But this migration, mainly due to political changes, has never assumed such large proportions as in the case of the more significant movements due to economic causes, for, as the accompanying map shows, most Negroes are still in the South. When we consider the various classes migrating, however, it will be apparent that to understand the exodus of the Negroes to the North, this longer drawn out and smaller movement must be carefully studied in all its ramifications. It should be noted that unlike some of the other migrations it has not been directed to any particular State. It has been from almost all Southern States to various parts of the North and especially to the largest cities.\[20\]
 
-<figure>
-    <img src="images/map1.png" alt="">
+<figure class="img-fluid">
+    <img src="images/map1.png" alt="" class="img-fluid">
     <figcaption>Map Showing the Per Cent of Negroes in Total Population, by States: 1910.</br>Map 2, Bulletin 129, The United States Bureau of the Census.</figcaption>
 </figure>
 
