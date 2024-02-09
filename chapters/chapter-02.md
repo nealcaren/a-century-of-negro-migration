@@ -111,7 +111,7 @@ It should be observed here that this movement, unlike the exodus of the Negroes 
 
 \[Footnote 8: *Southern Workman*, xxxvii, p. 157.\]
 
-\[Footnote 9: Levi Coffin, *Reminiscences*, chaps, i and ii.\]
+\[Footnote 9: Levi Coffin, *Reminiscences*, chaps, I and II.\]
 
 \[Footnote 10: *Southern Workman*, xxxvii, pp. 161-163.\]
 

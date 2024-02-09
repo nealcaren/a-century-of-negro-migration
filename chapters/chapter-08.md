@@ -38,7 +38,7 @@ For these reasons there has been since the exodus to the West a steady migration
 
 <figure class="img-fluid">
     <img src="images/map1.png" alt="" class="img-fluid">
-    <figcaption>Map Showing the Per Cent of Negroes in Total Population, by States: 1910.</br>Map 2, Bulletin 129, The United States Bureau of the Census.</figcaption>
+    <figcaption>Map showing the per cent of Negroes in total population, by states: 1910.</br>Map 2, Bulletin 129, The United States Bureau of the Census.</figcaption>
 </figure>
 
 
@@ -50,7 +50,7 @@ There are also the migrating educated Negroes. They have studied history, law an
 
 In the higher institutions of learning, especially the State schools, it is exceptional to find a principal who has the confidence of the Negroes. The Negroes will openly assert that he is in the pay of the reactionary whites, whose purpose is to keep the Negro down; and the incumbent himself will tell his board of regents how much he is opposed by the Negroes because he labors for the interests of the white race. Out of such sycophancy it is easily explained why our State schools have been so ineffective as to necessitate the sending of the Negro youth to private institutions maintained by northern philanthropy. Yet if an outspoken Negro happens to be an instructor in a private school conducted by educators from the North, he has to be careful about contending for a square deal; for, if the head of his institution does not suggest to him to proceed conservatively, the mob will dispose of the complainant.\[24\] Physicians, lawyers and preachers, who are not so economically dependent as teachers can exercise no more freedom of speech in the midst of this triumphant rule of the lawless.
 
-![Diagram Showing the Negro Population of Northern and Western Cities in 1900 and the Extent to Which It Increased by 1910.](images/figure1.png)
+![Diagram showing the Negro population of northern and western cities in 1900 and the extent to which it increased by 1910.](images/figure1.png){#fig-diagram}
 
 A large number of educated Negroes, therefore, have on account of these conditions been compelled to leave the South. Finding in the North, however, practically nothing in their line to do, because of the proscription by race prejudice and trades unions, many of them lead the life of menials, serving as waiters, porters, butlers and chauffeurs. While in Chicago, not long ago, the writer was in the office of a graduate of a colored southern college, who was showing his former teacher the picture of his class. In accounting for his classmates in the various walks of life, he reported that more than one third of them were settled to the occupation of Pullman porters.
 
@@ -60,11 +60,16 @@ Some of these Negroes have migrated after careful consideration; others have jus
 
 This shifting in the population has had an unusually significant effect on the black belt. Frederick Douglass advised the Negroes in 1879 to remain in the South where they would be in sufficiently large numbers to have political power,\[26\] but they have gradually scattered from the black belt so as to diminish greatly their chances ever to become the political force they formerly were in this country. The Negroes once had this possibility in South Carolina, Georgia, Alabama, Mississippi and Louisiana and, had the process of Africanization prior to the Civil War had a few decades longer to do its work, there would not have been any doubt as to the ultimate preponderance of the Negroes in those commonwealths. The tendencies of the black population according to the censuses of the United States and especially that of 1910, however, show that the chances for the control of these State governments by Negroes no longer exist except in South Carolina and Mississippi.\[27\] It has been predicted, therefore, that, if the same tendencies continue for the next fifty years, there will be even few counties in which the Negroes will be in a majority. All of the Southern States except Arkansas showed a proportionate increase of the white population over that of the black between 1900 and 1910, while West Virginia and Oklahoma with relatively small numbers of blacks showed, for reasons stated elsewhere, an increase in the Negro population. Thus we see coming to pass something like the proposed plan of Jefferson and other statesmen who a hundred years ago advocated the expansion of slavery to lessen the evil of the institution by distributing its burdens.\[28\]
 
-![](images/map_1860.png)
-![](images/map_1880.png)
-![](images/map_1900.png)
-![](images/map_1910.png)
-![Counties in the Southern States Having at Least 50 Per Cent of Their Population Negro.](images/legend.png)
+![](images/legend.png)
+::: {#fig-years layout-ncol=2}
+![1860](images/map_1860.png)
+![1880](images/map_1880.png)
+![1900](images/map_1900.png)
+![1910](images/map_1910.png)
+Counties in the southern states having at least 50 per cent of their population Negro.
+:::
+
+
 
 The migration of intelligent blacks, however, has been attended with several handicaps to the race. The large part of the black population is in the South and there it will stay for decades to come. The southern Negroes, therefore, have been robbed of their due part of the talented tenth. The educated blacks have had no constituency in the North and, consequently, have been unable to realize their sweetest dreams of the land of the free. In their new home the enlightened Negro must live with his light under a bushel. Those left behind in the South soon despair of seeing a brighter day and yield to the yoke. In the places of the leaders who were wont to speak for their people, the whites have raised up Negroes who accept favors offered them on the condition that their lips be sealed up forever on the rights of the Negro.
 
