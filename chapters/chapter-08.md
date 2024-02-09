@@ -36,7 +36,11 @@ These restrictions have made the progress of the Negroes more of a problem in th
 
 For these reasons there has been since the exodus to the West a steady migration of Negroes from the South to points in the North. But this migration, mainly due to political changes, has never assumed such large proportions as in the case of the more significant movements due to economic causes, for, as the accompanying map shows, most Negroes are still in the South. When we consider the various classes migrating, however, it will be apparent that to understand the exodus of the Negroes to the North, this longer drawn out and smaller movement must be carefully studied in all its ramifications. It should be noted that unlike some of the other migrations it has not been directed to any particular State. It has been from almost all Southern States to various parts of the North and especially to the largest cities.\[20\]
 
-![Map Showing the Per Cent of Negroes in Total Population, by States: 1910.<br\>(Map 2, Bulletin 129, The United States Bureau of the Census.)](images/map1.png)
+<figure>
+    <img src="images/map1.png" alt="">
+    <figcaption>Map Showing the Per Cent of Negroes in Total Population, by States: 1910.</br>Map 2, Bulletin 129, The United States Bureau of the Census.</figcaption>
+</figure>
+
 
 What classes then have migrated? In the first place, the Negro politicians, who, after the restoration of Bourbon rule in the South, found themselves thrown out of office and often humiliated and impoverished, had to find some way out of the difficulty. Some few have been relieved by sympathetic leaders of the Republican party, who secured for them federal appointments in Washington. These appointments when sometimes paying lucrative salaries have been given as a reward to those Negroes who, although dethroned in the South, remain in touch with the remnant of the Republican party there and control the delegates to the national conventions nominating candidates for President. Many Negroes of this class have settled in Washington.\[21\] In some cases, the observer witnesses the pitiable scene of a man once a prominent public functionary in the South now serving in Washington as a messenger or a clerk.
 
@@ -60,7 +64,7 @@ This shifting in the population has had an unusually significant effect on the b
 ![](images/map_1880.png)
 ![](images/map_1900.png)
 ![](images/map_1910.png)
-![Counties in the Southern States Having at Least 50 Per Cent of Their Population Negro.](images/legned.png)
+![Counties in the Southern States Having at Least 50 Per Cent of Their Population Negro.](images/legend.png)
 
 The migration of intelligent blacks, however, has been attended with several handicaps to the race. The large part of the black population is in the South and there it will stay for decades to come. The southern Negroes, therefore, have been robbed of their due part of the talented tenth. The educated blacks have had no constituency in the North and, consequently, have been unable to realize their sweetest dreams of the land of the free. In their new home the enlightened Negro must live with his light under a bushel. Those left behind in the South soon despair of seeing a brighter day and yield to the yoke. In the places of the leaders who were wont to speak for their people, the whites have raised up Negroes who accept favors offered them on the condition that their lips be sealed up forever on the rights of the Negro.
 
