@@ -2,6 +2,7 @@
 
 ## Rollcall
 - Neal Caren: NPC
+- Rook Schrader: RS
 
 ## Chapter Status
 
