@@ -8,7 +8,7 @@
 
 ### Chapter 1
 - Footnotes: Formatting corrected, but still need to do Roman numeral correction (NPC).
-- Accuracy:
+- Accuracy: Words are all accurate to the original text. Need to check punctuation and formatting (RS).
 - Audio:
 - Other:
 
