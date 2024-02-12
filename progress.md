@@ -8,7 +8,7 @@
 
 ### Chapter 1
 - Footnotes: Formatting corrected, but still need to do Roman numeral correction (NPC).
-- Accuracy: Words are all accurate to the original text. Need to check punctuation and formatting (RS).
+- Accuracy: Words, punctuation, formatting, and spelling are all correct (RS).
 - Audio:
 - Other:
 
@@ -67,4 +67,4 @@
 - Neal Caren created workflow.
 
 ### 2/11
-- Rook Schrader is working on Chapter 1 Accuracy
+- Rook Schrader has checked Chapter 1 for accuracy.
