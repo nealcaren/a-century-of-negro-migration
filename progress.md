@@ -9,11 +9,11 @@
 ### Chapter 1
 - Footnotes: Formatting corrected, but still need to do Roman numeral correction (NPC).
 - Accuracy: Words, punctuation, formatting, and spelling are all correct (RS).
-- Audio: Noted that one instance of the word "proslavery" was pronounced incorrectly. Proposed change: separate into "pro slavery."
+- Audio: Noted that one instance of the word "proslavery" was pronounced incorrectly. Proposed change: separate into "pro slavery" (RS).
 - Other:
 
 ### Chapter 2
-- Footnotes:
+- Footnotes: Fixed formatting, but need to do roman numerals (RS).
 - Accuracy:
 - Audio:
 - Other:
@@ -68,4 +68,4 @@
 
 ### 2/11
 - Rook Schrader has checked Chapter 1 for accuracy.
-- Rook Schrader has begun correcting Chapter 2's footnotes.
+- Rook Schrader corrected Chapter 2's footnote formatting and is moving on to roman numerals.
