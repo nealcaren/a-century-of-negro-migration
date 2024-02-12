@@ -65,3 +65,6 @@
 
 ### 2/8
 - Neal Caren created workflow.
+
+### 2/11
+- Rook Schrader is working on Chapter 1 Accuracy
