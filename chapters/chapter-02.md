@@ -182,3 +182,4 @@ It should be observed here that this movement, unlike the exodus of the Negroes 
 [^43]: Woodson, *The Education of the Negro Prior to 1861*, pp. 236-240.
 
 [^44]:*The United States Censuses of 1850 and 1860.*
+
