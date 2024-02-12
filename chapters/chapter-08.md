@@ -61,11 +61,17 @@ Some of these Negroes have migrated after careful consideration; others have jus
 This shifting in the population has had an unusually significant effect on the black belt. Frederick Douglass advised the Negroes in 1879 to remain in the South where they would be in sufficiently large numbers to have political power,\[26\] but they have gradually scattered from the black belt so as to diminish greatly their chances ever to become the political force they formerly were in this country. The Negroes once had this possibility in South Carolina, Georgia, Alabama, Mississippi and Louisiana and, had the process of Africanization prior to the Civil War had a few decades longer to do its work, there would not have been any doubt as to the ultimate preponderance of the Negroes in those commonwealths. The tendencies of the black population according to the censuses of the United States and especially that of 1910, however, show that the chances for the control of these State governments by Negroes no longer exist except in South Carolina and Mississippi.\[27\] It has been predicted, therefore, that, if the same tendencies continue for the next fifty years, there will be even few counties in which the Negroes will be in a majority. All of the Southern States except Arkansas showed a proportionate increase of the white population over that of the black between 1900 and 1910, while West Virginia and Oklahoma with relatively small numbers of blacks showed, for reasons stated elsewhere, an increase in the Negro population. Thus we see coming to pass something like the proposed plan of Jefferson and other statesmen who a hundred years ago advocated the expansion of slavery to lessen the evil of the institution by distributing its burdens.\[28\]
 
 ![](images/legend.png)
+
 ::: {#fig-years layout-ncol=2}
+
 ![1860](images/map_1860.png)
+
 ![1880](images/map_1880.png)
+
 ![1900](images/map_1900.png)
+
 ![1910](images/map_1910.png)
+
 Counties in the southern states having at least 50 per cent of their population Negro.
 :::
 
