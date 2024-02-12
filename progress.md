@@ -68,4 +68,4 @@
 
 ### 2/11
 - Rook Schrader has checked Chapter 1 for accuracy.
-- Rook Schrader corrected Chapter 2's footnote formatting and is moving on to roman numerals.
+- Rook Schrader corrected Chapter 2's footnote formatting, roman numeral corrections still needed.
