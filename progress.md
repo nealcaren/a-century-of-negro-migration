@@ -9,7 +9,7 @@
 ### Chapter 1
 - Footnotes: Formatting corrected, but still need to do Roman numeral correction (NPC).
 - Accuracy: Words, punctuation, formatting, and spelling are all correct (RS).
-- Audio:
+- Audio: Noted that one instance of the word "proslavery" was pronounced incorrectly. Proposed change: separate into "pro slavery."
 - Other:
 
 ### Chapter 2
