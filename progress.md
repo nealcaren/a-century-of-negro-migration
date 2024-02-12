@@ -68,3 +68,4 @@
 
 ### 2/11
 - Rook Schrader has checked Chapter 1 for accuracy.
+- Rook Schrader has begun correcting Chapter 2's footnotes.
