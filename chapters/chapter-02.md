@@ -1,7 +1,13 @@
 # A Transplantation to the North
 
-![](audio/a-century-of-negro-migration-02.mp3)
-
+```{=html}
+<p>
+<audio controls>
+  <source src="audio/a-century-of-negro-migration-02.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+</p>
+```
 
 Just after the settlement of the question of holding the western posts by the British and the adjustment of the trouble arising from their capture of slaves during our second war with England, there started a movement of the blacks to this frontier territory. But, as there were few towns or cities in the Northwest during the first decades of the new republic, the flight of the Negro into that territory was like that of a fugitive taking his chances in the wilderness. Having lost their pioneering spirit in passing through the ordeal of slavery, not many of the bondmen took flight in that direction and few free Negroes ventured to seek their fortunes in those wilds during the period of the frontier conditions, especially when the country had not then undergone a thorough reaction against the Negro.
 
@@ -161,7 +167,7 @@ It should be observed here that this movement, unlike the exodus of the Negroes 
 
 [^33]: Olmsted, *Back Country*, p. 134.
 
-[^34]:: In the Appalachian mountains, however, the settlers were loath to follow the fortunes of the ardent pro-slavery element. Actual abolition, for example, was never popular in western Virginia, but the love of the people of that section for freedom kept them estranged from the slaveholding districts of the State, which by 1850 had completely committed themselves to the pro-slavery propaganda. In the Convention of 1829-30 Upshur said there existed in a great portion of the West (of Virginia) a rooted antipathy to the slave. John Randolph was alarmed at the fanatical spirit on the subject of slavery, which was growing in Virginia,--See the *Journal of Negro History*, I, p. 142.
+[^34]: In the Appalachian mountains, however, the settlers were loath to follow the fortunes of the ardent pro-slavery element. Actual abolition, for example, was never popular in western Virginia, but the love of the people of that section for freedom kept them estranged from the slaveholding districts of the State, which by 1850 had completely committed themselves to the pro-slavery propaganda. In the Convention of 1829-30 Upshur said there existed in a great portion of the West (of Virginia) a rooted antipathy to the slave. John Randolph was alarmed at the fanatical spirit on the subject of slavery, which was growing in Virginia,--See the *Journal of Negro History*, I, p. 142.
 
 [^35]: Adams, *Neglected Period of Anti-Slavery*.
 

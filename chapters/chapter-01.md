@@ -5,9 +5,14 @@
 -->
 
 
-![](audio/a-century-of-negro-migration-01.mp3)
-
-
+```{=html}
+<p>
+<audio controls>
+  <source src="audio/a-century-of-negro-migration-01.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+</p>
+```
 
 The migration of the blacks from the Southern States to those offering them better opportunities is nothing new. The objective here, therefore, will be not merely to present the causes and results of the recent movement of the Negroes to the North but to connect this event with the periodical movements of the blacks to that section, from about the year 1815 to the present day. That this movement should date from that period indicates that the policy of the commonwealths towards the Negro must have then begun decidedly to differ so as to make one section of the country more congenial to the despised blacks than the other. As a matter of fact, to justify this conclusion, we need but give passing mention here to developments too well known to be discussed in detail. Slavery in the original thirteen States was the normal condition of the Negroes. When, however, James Otis, Patrick Henry and Thomas Jefferson began to discuss the natural rights of the colonists, then said to be oppressed by Great Britain, some of the patriots of the Revolution carried their reasoning to its logical conclusion, contending that the Negro slaves should be freed on the same grounds, as their rights were also founded in the laws of nature.[^1] And so it was soon done in most Northern commonwealths.
  
