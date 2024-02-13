@@ -171,3 +171,4 @@ cython_debug/
 index.toc
 index.tex
 *.aux
+index.pdf

@@ -1,8 +1,14 @@
 # The Successful Migrant
 
 
-![](audio/a-century-of-negro-migration-05.mp3)
-
+```{=html}
+<p>
+<audio controls>
+  <source src="audio/a-century-of-negro-migration-05.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+</p>
+```
 
 The reader will naturally be interested in learning exactly what these thousands of Negroes did on free soil. To estimate these achievements the casual reader of contemporary testimony would now, as such persons did then, find it decidedly easy. He would say that in spite of the unfailing aid which philanthropists gave the blacks, they seldom kept themselves above want and, therefore, became a public charge, afflicting their communities with so much poverty, disease and crime that they were considered the lepers of society. The student of history, however, must look beyond these comments for the whole truth. One must take into consideration the fact that in most cases these Negroes escaped as fugitives without sufficient food and clothing to comfort them until they could reach free soil, lacking the small fund with which the pioneer usually provided himself in going to establish a home in the wilderness, and lacking, above all, initiative of which slavery had deprived them. Furthermore, these refugees with few exceptions had to go to places where they were not wanted and in some cases to points from which they were driven as undesirables, although preparation for their coming had sometimes gone to the extent of purchasing homes and making provision for employment upon arrival.\[1\] Several well-established Negro settlements in the North, moreover, were broken up by the slave hunters after the passing of the Fugitive Slave Law of 1850.\[2\]
 
