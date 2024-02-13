@@ -1,7 +1,14 @@
 # Fighting It Out on Free Soil
 
 
-![](audio/a-century-of-negro-migration-03.mp3)
+```{=html}
+<p>
+<audio controls>
+  <source src="audio/a-century-of-negro-migration-03.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+</p>
+```
 
 
 How, then, was this increasing influx of refugees from the South to be received in the free States? In the older Northern States where there could be no danger of an Africanization of a large district, the coming of the Negroes did not cause general excitement, though at times the feeling in certain localities was sufficient to make one think so.\[1\] Fearing that the immigration of the Negroes into the North might so increase their numbers as to make them constitute a rather important part in the community, however, some free States enacted laws to restrict the privileges of the blacks.
