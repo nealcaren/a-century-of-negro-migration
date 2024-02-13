@@ -1,6 +1,6 @@
 # A Transplantation to the North
 
-<p><audio src="audio/a-century-of-negro-migration-02.mp3" class="img-fluid" controls=""><a href="https://nealcaren.github.io/a-century-of-negro-migration/chapters/audio/a-century-of-negro-migration-02.mp3"></a></audio></p>
+![](audio/a-century-of-negro-migration-02.mp3)
 
 
 Just after the settlement of the question of holding the western posts by the British and the adjustment of the trouble arising from their capture of slaves during our second war with England, there started a movement of the blacks to this frontier territory. But, as there were few towns or cities in the Northwest during the first decades of the new republic, the flight of the Negro into that territory was like that of a fugitive taking his chances in the wilderness. Having lost their pioneering spirit in passing through the ordeal of slavery, not many of the bondmen took flight in that direction and few free Negroes ventured to seek their fortunes in those wilds during the period of the frontier conditions, especially when the country had not then undergone a thorough reaction against the Negro.
