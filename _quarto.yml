@@ -27,7 +27,14 @@ format:
     theme:
       - cosmo
       - custom.scss
-
     number-sections: true
+
+  pdf:
+    documentclass: scrbook
+    papersize: letter
+    toc: true
+    number-sections: true
+    colorlinks: true
+
 
 
