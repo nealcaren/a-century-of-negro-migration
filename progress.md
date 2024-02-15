@@ -71,5 +71,5 @@
 - Rook Schrader corrected Chapter 2's footnote formatting, roman numeral corrections still needed.
 
 ### 2/15
-- Rook Schrader has corrected Chapter 3, 4, 5, and 6's footnote formatting and checked the accuracy of Chapter 2.
-- Rook Schrader is going to correct the footnote formatting of Chapter 7.
+- Rook Schrader has corrected Chapter 3, 4, 5, 6, and 7's footnote formatting and checked the accuracy of Chapter 2.
+- Rook Schrader is going to correct the footnote formatting of Chapter 8.
