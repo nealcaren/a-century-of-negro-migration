@@ -14,7 +14,7 @@
 
 ### Chapter 2
 - Footnotes: Fixed formatting, but need to do roman numerals (RS).
-- Accuracy:
+- Accuracy: Words, punctuation, formatting, and spelling are all correct (RS).
 - Audio: "Region" on page 32 pronounced as "region-chur," unsure of why. Proposed change: check to make sure there is not a mispelling of region in the script.
 - Other:
 
@@ -71,4 +71,4 @@
 - Rook Schrader corrected Chapter 2's footnote formatting, roman numeral corrections still needed.
 
 ### 2/15
-- Rook Schrader has corrected Chapter 3's footnote formatting and will be checking the accuracy of Chapter 2.
+- Rook Schrader has corrected Chapter 3's footnote formatting and checked the accuracy of Chapter 2.
