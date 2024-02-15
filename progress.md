@@ -43,7 +43,7 @@
 - Other:
 
 ### Chapter 7
-- Footnotes:
+- Footnotes: Fixed formatting, but need to do roman numerals (RS).
 - Accuracy:
 - Audio:
 - Other:
