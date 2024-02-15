@@ -69,3 +69,6 @@
 ### 2/11
 - Rook Schrader has checked Chapter 1 for accuracy.
 - Rook Schrader corrected Chapter 2's footnote formatting, roman numeral corrections still needed.
+
+### 2/15
+- Rook Schrader will be correcting Chapter 3's footnote formatting and the accuracy of Chapter 2.
