@@ -19,7 +19,7 @@
 - Other:
 
 ### Chapter 3
-- Footnotes:
+- Footnotes: Fixed formatting, but need to do roman numerals (RS).
 - Accuracy:
 - Audio:
 - Other:
@@ -71,4 +71,4 @@
 - Rook Schrader corrected Chapter 2's footnote formatting, roman numeral corrections still needed.
 
 ### 2/15
-- Rook Schrader will be correcting Chapter 3's footnote formatting and the accuracy of Chapter 2.
+- Rook Schrader has corrected Chapter 3's footnote formatting and will be checking the accuracy of Chapter 2.
