@@ -15,7 +15,7 @@
 ### Chapter 2
 - Footnotes: Fixed formatting, but need to do roman numerals (RS).
 - Accuracy:
-- Audio:
+- Audio: "Region" on page 32 pronounced as "region-chur," unsure of why. Proposed change: check to make sure there is not a mispelling of region in the script.
 - Other:
 
 ### Chapter 3
