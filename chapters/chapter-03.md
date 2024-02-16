@@ -131,13 +131,13 @@ Be it resolved that no person shall set up or establish in this State, any schoo
 
 4.  Any person not an inhabitant of this State who shall reside in any town therein for the purpose of being instructed as aforesaid, shall be an admissible witness in all prosecutions under the first section of this act, and may be compelled to give testimony therein, notwithstanding anything in this act, or in the act last aforesaid.
 
-5.  That so much of the seventh section of this act to which this is an addition as may provide for the infliction of corporal punishment, be and the same is hereby repealed.--See Hurd's *Law of Freedom and Bondage*, II, pp. 45-46.\]
+5.  That so much of the seventh section of this act to which this is an addition as may provide for the infliction of corporal punishment, be and the same is hereby repealed.--See Hurd's *Law of Freedom and Bondage*, II, pp. 45-46.
 
 [^27]: So many Negroes working on the rivers between the slave and free States helped fugitives to escape that there arose a clamor for the discourage of colored employees.
 
-\[Transcriber's Note: The above should probably be "discouragement of colored employees."\]
+Transcriber's Note: The above should probably be "discouragement of colored employees."
 
-[^28]: *Constitution of Ohio*, article I, sections 2, 6. *The Journal of Negro History*, I, p. 2.\]
+[^28]: *Constitution of Ohio*, article I, sections 2, 6. *The Journal of Negro History*, I, p. 2.
 
 [^29]: *Laws of Ohio*, II, p. 53.
 
