@@ -3,7 +3,7 @@
 ## Rollcall
 - Neal Caren: NPC
 - Rook Schrader: RS
-
+- Belinda Woodard: BW
 ## Chapter Status
 
 ### Chapter 1
