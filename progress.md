@@ -77,4 +77,4 @@
 ### 2/16 
 - Rook Schrader was unable to find how to make footnotes into roman numerals, but will continue trying.
 - Rook Schrader has fixed Chapter 9's footnote formatting
-- Rook Schrader is going to check Chapter 3 for accuracy.
+- Rook Schrader has checked the audio of Chapter 3, will now be moving to formatting and punctuation.
