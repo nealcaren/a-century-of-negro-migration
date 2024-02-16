@@ -15,13 +15,13 @@
 ### Chapter 2
 - Footnotes: Fixed formatting, but need to do roman numerals (RS).
 - Accuracy: Words, punctuation, formatting, and spelling are all correct (RS).
-- Audio: "Region" on page 32 pronounced as "region-chur," unsure of why. Proposed change: check to make sure there is not a mispelling of region in the script.
+- Audio: "Region" on page 32 pronounced as "region-chur," unsure of why. Proposed change: check to make sure there is not a mispelling of region in the script. (RS)
 - Other:
 
 ### Chapter 3
 - Footnotes: Fixed formatting, but need to do roman numerals (RS).
-- Accuracy: 
-- Audio: At 14:49, pronounces "DEE-sist" as "duh-zist." Proposed change: more phoenetic spelling i.e. dee-sist. At 26:40, "fracas" is mispronounced as "fruh-cah." Proposed change: Frak-uss.
+- Accuracy: Formatting, spelling, and punctuation accurate (RS)
+- Audio: At 14:49, pronounces "DEE-sist" as "duh-zist." Proposed change: more phoenetic spelling i.e. dee-sist. At 26:40, "fracas" is mispronounced as "fruh-cah." Proposed change: Frak-uss. (RS)
 - Other:
 
 ### Chapter 4
@@ -77,4 +77,4 @@
 ### 2/16 
 - Rook Schrader was unable to find how to make footnotes into roman numerals, but will continue trying.
 - Rook Schrader has fixed Chapter 9's footnote formatting
-- Rook Schrader has checked the audio of Chapter 3, will now be moving to formatting and punctuation.
+- Rook Schrader has checked Chapter 3 for accuracy and made the appropriate notes.
