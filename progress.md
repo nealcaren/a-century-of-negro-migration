@@ -20,8 +20,8 @@
 
 ### Chapter 3
 - Footnotes: Fixed formatting, but need to do roman numerals (RS).
-- Accuracy:
-- Audio:
+- Accuracy: 
+- Audio: At 14:49, pronounces "DEE-sist" as "duh-zist." Proposed change: more phoenetic spelling i.e. dee-sist.
 - Other:
 
 ### Chapter 4
