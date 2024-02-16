@@ -21,7 +21,7 @@
 ### Chapter 3
 - Footnotes: Fixed formatting, but need to do roman numerals (RS).
 - Accuracy: 
-- Audio: At 14:49, pronounces "DEE-sist" as "duh-zist." Proposed change: more phoenetic spelling i.e. dee-sist.
+- Audio: At 14:49, pronounces "DEE-sist" as "duh-zist." Proposed change: more phoenetic spelling i.e. dee-sist. At 26:40, "fracas" is mispronounced as "fruh-cah." Proposed change: Frak-uss.
 - Other:
 
 ### Chapter 4
