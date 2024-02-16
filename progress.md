@@ -73,3 +73,7 @@
 ### 2/15
 - Rook Schrader has corrected Chapter 3, 4, 5, 6, 7, and 8's footnote formatting and checked the accuracy of Chapter 2.
 - Rook Schrader is going to research how to make the footnotes into roman numerals.
+
+### 2/16 
+- Rook Schrader was unable to find how to make footnotes into roman numerals, but will continue trying.
+- Rook Schrader is going to fix the formatting of Chapter 9's footnotes and check Chapter 3 for accuracy.
