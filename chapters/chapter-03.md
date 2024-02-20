@@ -133,7 +133,7 @@ With the exception of such centers as Eden, Upper Alton, Bellville and Chicago, 
 
 [^27]: So many Negroes working on the rivers between the slave and free States helped fugitives to escape that there arose a clamor for the discourage of colored employees.
 
-Transcriber's Note: The above should probably be "discouragement of colored employees."
+    Transcriber's Note: The above should probably be "discouragement of colored employees."
 
 [^28]: *Constitution of Ohio*, article I, sections 2, 6. *The Journal of Negro History*, I, p. 2.
 
@@ -179,4 +179,4 @@ Transcriber's Note: The above should probably be "discouragement of colored empl
 
 [^49]: In 1836 a colored man traveling in the West to Cleveland said:
 
-"I have met with good treatment at every place on my journey, even better than what I expected under present circumstances. I will relate an incident that took place on board the steamboat, which will give an idea of the kind treatment with which I have met. When I took the boat at Erie, it being rainy and somewhat disagreeable, I took a cabin passage, to which the captain had not the least objection. When dinner was announced, I intended not to go to the first table but the mate came and urged me to take a seat. I accordingly did and was called upon to carve a large saddle of beef which was before me. This I performed accordingly to the best of my ability. No one of the company manifested any objection or seemed anyways disturbed by my presence."--Extract of a letter from a colored gentleman traveling to the West, Cleveland, Ohio, August 11, 1836.--See *The Philanthropist*, Oct. 21, 1836.
+    "I have met with good treatment at every place on my journey, even better than what I expected under present circumstances. I will relate an incident that took place on board the steamboat, which will give an idea of the kind treatment with which I have met. When I took the boat at Erie, it being rainy and somewhat disagreeable, I took a cabin passage, to which the captain had not the least objection. When dinner was announced, I intended not to go to the first table but the mate came and urged me to take a seat. I accordingly did and was called upon to carve a large saddle of beef which was before me. This I performed accordingly to the best of my ability. No one of the company manifested any objection or seemed anyways disturbed by my presence."--Extract of a letter from a colored gentleman traveling to the West, Cleveland, Ohio, August 11, 1836.--See *The Philanthropist*, Oct. 21, 1836.
