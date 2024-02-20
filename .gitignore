@@ -172,3 +172,4 @@ index.toc
 index.tex
 *.aux
 index.pdf
+.DS_Store

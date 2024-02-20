@@ -1,9 +1,5 @@
 # Finding a Place of Refuge
 
-<!--
-2/2: First upload and some footnotes - NPC 
--->
-
 
 ```{=html}
 <p>
