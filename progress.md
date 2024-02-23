@@ -5,6 +5,7 @@
 - Rook Schrader: RS
 - Belinda Woodard: BW
 - Lauren Brodeur: LB
+- Mia Neal: MN
 ## Chapter Status
 
 ### Chapter 1
