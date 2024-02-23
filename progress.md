@@ -35,7 +35,7 @@
 ### Chapter 5
 - Footnotes: Fixed formatting, but need to do roman numerals (RS).
 - Accuracy: 
-- Audio:The number "2,255" is pronounced oddly at 16:04 adding extra syllables. Proposed change: Check if there are extra commas or spaces creating this issue. (MN)
+- Audio: The number "2,255" at 16:04 and "$800" at 16:44 are pronounced oddly adding extra syllables and almost skipping over the numbers. Proposed change: Check if there are extra commas or spaces creating this issue. (MN)
 - Other:
 
 ### Chapter 6
