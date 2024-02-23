@@ -34,7 +34,7 @@
 
 ### Chapter 5
 - Footnotes: Fixed formatting, but need to do roman numerals (RS).
-- Accuracy:
+- Accuracy: 
 - Audio:
 - Other:
 
@@ -80,3 +80,6 @@
 - Rook Schrader was unable to find how to make footnotes into roman numerals, but will continue trying.
 - Rook Schrader has fixed Chapter 9's footnote formatting
 - Rook Schrader has checked Chapter 3 for accuracy and made the appropriate notes.
+
+### 2/23
+- Mia Neal is checking Chapter 5 for accuracy.
