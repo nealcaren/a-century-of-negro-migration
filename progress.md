@@ -82,4 +82,4 @@
 - Rook Schrader has checked Chapter 3 for accuracy and made the appropriate notes.
 
 ### 2/23
-- Mia Neal is checking Chapter 5 for accuracy.
+- Mia Neal is checking Chapter 5 for accuracy. Making note of mispronounced number.
