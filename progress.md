@@ -4,6 +4,7 @@
 - Neal Caren: NPC
 - Rook Schrader: RS
 - Belinda Woodard: BW
+- Lauren Brodeur: LB
 ## Chapter Status
 
 ### Chapter 1
