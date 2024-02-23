@@ -34,7 +34,7 @@
 
 ### Chapter 5
 - Footnotes: Fixed formatting, but need to do roman numerals (RS).
-- Accuracy: 
+- Accuracy: Formatting, spelling, and punctuation accurate. (MN)
 - Audio: The number "2,255" at 16:04 and "$800" at 16:44 are pronounced oddly adding extra syllables and almost skipping over the numbers. Likewise, "$2,500" at 17:46 is pronounced skipping over the pronunciation of "dollars". Proposed change: Check if there are extra commas or spaces creating this issue. The word "only" is missing at 16:58, but is in the origial PDF. Proposed change: add the word "only" after "was worth" on page 93. (MN)
 - Other:
 
@@ -82,4 +82,4 @@
 - Rook Schrader has checked Chapter 3 for accuracy and made the appropriate notes.
 
 ### 2/23
-- Mia Neal is checking Chapter 5 for accuracy. Making note of mispronounced number.
+- Mia Neal checked Chapter 5 for accuracy. Made note of audio issues in Chapter 5. 
