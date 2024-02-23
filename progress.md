@@ -28,7 +28,7 @@
 ### Chapter 4
 - Footnotes: Fixed formatting, but need to do roman numerals (RS).
 - Accuracy:
-- Audio:
+- Audio: Pause between "liberated Africans" that doesn't make sense in the audio, unsure why. Proposed change: Check to make sure there is not accidental puncuation or extra spaces between words. On page 75, "Z." pronounced like "Zid." (LB)
 - Other:
 
 ### Chapter 5
