@@ -11,7 +11,7 @@
 
 Just after the settlement of the question of holding the western posts by the British and the adjustment of the trouble arising from their capture of slaves during our second war with England, there started a movement of the blacks to this frontier territory. But, as there were few towns or cities in the Northwest during the first decades of the new republic, the flight of the Negro into that territory was like that of a fugitive taking his chances in the wilderness. Having lost their pioneering spirit in passing through the ordeal of slavery, not many of the bondmen took flight in that direction and few free Negroes ventured to seek their fortunes in those wilds during the period of the frontier conditions, especially when the country had not then undergone a thorough reaction against the Negro.
 
-The migration of the Negroes, however, received an impetus early in the nineteenth century. This came from the Quakers, who by the middle of the eighteenth century had taken the position that all members of their sect should free their slaves.[^I] The Quakers of North Carolina and Virginia had as early as 1740 taken up the serious question of humanely treating their Negroes. The North Carolina Quakers advised Friends to emancipate their slaves, later prohibited traffic in them, forbade their members from even hiring the blacks out in 1780 and by 1818 had exterminated the institution among their communicants.[^II] After healing themselves of the sin, they had before the close of the eighteenth century militantly addressed themselves to the task of abolishing slavery and the slave trade throughout the world. Differing in their scheme from that of most anti-slavery leaders, they were advocating the establishment of the freedmen in society as good citizens and to that end had provided for the religious and mental instruction of their slaves prior to emancipating them.[^3]
+The migration of the Negroes, however, received an impetus early in the nineteenth century. This came from the Quakers, who by the middle of the eighteenth century had taken the position that all members of their sect should free their slaves.[^1] The Quakers of North Carolina and Virginia had as early as 1740 taken up the serious question of humanely treating their Negroes. The North Carolina Quakers advised Friends to emancipate their slaves, later prohibited traffic in them, forbade their members from even hiring the blacks out in 1780 and by 1818 had exterminated the institution among their communicants.[^2] After healing themselves of the sin, they had before the close of the eighteenth century militantly addressed themselves to the task of abolishing slavery and the slave trade throughout the world. Differing in their scheme from that of most anti-slavery leaders, they were advocating the establishment of the freedmen in society as good citizens and to that end had provided for the religious and mental instruction of their slaves prior to emancipating them.[^3]
 
 Despite the fact that the Quakers were not free to extend their operations throughout the colonies, they did much to enable the Negroes to reach free soil. As the Quakers believed in the freedom of the will, human brotherhood, and equality before God, they did not, like the Puritans, find difficulties in solving the problem of elevating the Negroes. Whereas certain Puritans were afraid that conversion might lead to the destruction of caste and the incorporation of undesirable persons into the "Body Politick," the Quakers proceeded on the principle that all men are brethren and, being equal before God, should be considered equal before the law. On account of unduly emphasizing the relation of man to God, the Puritans "atrophied their social humanitarian instinct" and developed into a race of self-conscious saints. Believing in human nature and laying stress upon the relation between man and man, the Quakers became the friends of all humanity.[^4]
 
@@ -107,23 +107,23 @@ It should be observed here that this movement, unlike the exodus of the Negroes 
 
 : Statistics of the Free Colored Population of the United States {#tbl-stats}
 
-[^I]:   Moore, *Anti-Slavery*, p. 79; and *Special Report of the United States Commissioner of Education*, 1871, p. 376; Weeks, *Southern Quakers*, pp. 215, 216, 231, 230, 242.
-[^II]:   *The Southern Workman*, xxvii, p. 161.
+[^1]:   Moore, *Anti-Slavery*, p. 79; and *Special Report of the United States Commissioner of Education*, 1871, p. 376; Weeks, *Southern Quakers*, pp. 215, 216, 231, 230, 242.
+[^2]:   *The Southern Workman*, XXXVII, p. 161.
 [^3]:   Rhodes, *History of the United States*, chap. i, p. 6; Bancroft, *History of the United States*, chap. ii, p. 401; and Locke, *Anti-Slavery*, p. 32.
 [^4]:   *A Brief Statement of the Rise and Progress of the Testimony of the Quakers*, passim; Woodson, *The Education of the Negro Prior to 1861*, p. 43.
 [^5]:   Woodson, *The Education of the Negro Prior to 1861*, p. 44; and Locke, *Anti-Slavery*, p. 32.
-[^6]:   *The Southern Workman*, xxxvii, pp. 158-169.
+[^6]:   *The Southern Workman*, XXXVII, pp. 158-169.
 [^7]:  Turner, *The Negro in Pennsylvania*, pp. 144, 145, 151, 155.
 
-[^8]: *Southern Workman*, xxxvii, p. 157.
+[^8]: *Southern Workman*, XXXVII, p. 157.
 
 [^9]: Levi Coffin, *Reminiscences*, chaps, I and II.
 
-[^10]: *Southern Workman*, xxxvii, pp. 161-163.
+[^10]: *Southern Workman*, XXXVII, pp. 161-163.
 
 [^11]: Coffin, *Reminiscences*, p. 109; and Howe's *Historical Collections*, p. 356.
 
-[^12]: *Southern Workman*, xxxvii, pp. 162, 163.
+[^12]: *Southern Workman*, XXXVII, pp. 162, 163.
 
 [^13]: Levi Coffin, *Reminiscences*, pp. 108-111.
 
@@ -141,11 +141,11 @@ It should be observed here that this movement, unlike the exodus of the Negroes 
 
 [^20]: *Manuscripts* in the possession of J.E. Moorland.
 
-[^21]: *The African Repository*, xxii, pp. 322, 333.
+[^21]: *The African Repository*, XXII, pp. 322, 333.
 
 [^22]: Simmons, *Men of Mark*, p. 723.
 
-[^23]: *Southern Workman*, xxxvii, p. 158.
+[^23]: *Southern Workman*, XXXVII, p. 158.
 
 [^24]: *The Journal of Negro History*, I, pp. 23-33.
 
@@ -153,11 +153,11 @@ It should be observed here that this movement, unlike the exodus of the Negroes 
 
 [^26]: *The African Repository*, passim.
 
-[^27]: Although constituting a majority of the population even before the Civil War the Negroes of this township did not get recognition in the local government until 1875 when John Allen, a Negro, was elected township treasurer. From that time until about 1890 the Negroes always shared the honors of office with their white citizens and since that time they have usually had entire control of the local government in that township, holding such offices as supervisor, clerk, treasurer, road commissioner, and school director. Their record has been that of efficiency. Boss rule among them is not known. The best man for an office is generally sought; for this is a community of independent farmers. In 1907 one hundred and eleven different farmers in this community had holdings of 10,439 acres. Their township usually has very few delinquent taxpayers and it promptly makes its returns to the county.--See the *Southern Workman*, xxxvii, pp. 486-489.
+[^27]: Although constituting a majority of the population even before the Civil War the Negroes of this township did not get recognition in the local government until 1875 when John Allen, a Negro, was elected township treasurer. From that time until about 1890 the Negroes always shared the honors of office with their white citizens and since that time they have usually had entire control of the local government in that township, holding such offices as supervisor, clerk, treasurer, road commissioner, and school director. Their record has been that of efficiency. Boss rule among them is not known. The best man for an office is generally sought; for this is a community of independent farmers. In 1907 one hundred and eleven different farmers in this community had holdings of 10,439 acres. Their township usually has very few delinquent taxpayers and it promptly makes its returns to the county.--See the *Southern Workman*, XXXVII, pp. 486-489.
 
 [^28]: Davidson and Stowe, *A Complete History of Illinois*, pp. 321, 322; and Washburn, *Edward Coles*, pp. 44 and 53.
 
-[^29]: The Negro population of this town so rapidly increased after the war that it has become a Negro town and unfortunately a bad one. Much improvement has been made in recent years.--See *Southern Workman*, xxxvii, pp. 489-494.
+[^29]: The Negro population of this town so rapidly increased after the war that it has become a Negro town and unfortunately a bad one. Much improvement has been made in recent years.--See *Southern Workman*, XXXVII, pp. 489-494.
 
 [^30]: Still, *Underground Railroad*, passim; Siebert, *Underground Railroad*, pp. 34, 35, 40, 42, 43, 48, 56, 59, 62, 64, 70, 145, 147; Drew, *Refugee*, pp. 72, 97, 114, 152, 335 and 373.
 
