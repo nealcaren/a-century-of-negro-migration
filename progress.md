@@ -40,7 +40,7 @@
 
 ### Chapter 6
 - Footnotes: Fixed formatting (RS).
-- Accuracy:
+- Accuracy: 
 - Audio: At 9:14, the audio skips over "they could," sounding like "they c- they could." Proposed change: check to make sure AI script does not repeat phrase accidentally. At 16:20, audio pronounces "hundred" as "hun" in the number 261,918. Proposed change: Use phrase "two-hundred and six-one thousand nine hundred and eighteen" in AI script to affirm that it pronounces it correctly. At 17:15, there is a pause between the words in "officers' servants" that makes it sound like "officers, servants," changing the original meaning of the text. Proposed change: make sure there is no comma in the AI script and that "officers'" has the correct apostraphe. At 18:02, pronounces "7,200" as "seven two hundred." Proposed change: write out the number as either "seven thousand two hundred" or "seventy-two hundred." At 18:22, pronunciation of "1,500" is skipped over and sounds like "one thousand- fifteen hundred." Proposed change: Make sure there are no extra numbers in the AI script and write out either "one thousand five hundred" or "fifteen hundred" for the AI to read.
 - Other:
 
@@ -87,3 +87,4 @@
 ### 2/24
 - Rook Schrader checked all chapters for proper roman numeral formatting.
 - Rook Schrader will be checking Chapter 6 for accuracy. Proposed changes to audio have been noted, will be going back in to check punctuation and formatting.
+- Rook Schrader question about Chapter 6 accuracy: included note in text for a map, however no map in said place in the original text. Will we be adding this map for the project?
