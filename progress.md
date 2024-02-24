@@ -41,7 +41,7 @@
 ### Chapter 6
 - Footnotes: Fixed formatting (RS).
 - Accuracy:
-- Audio: At 9:14, the audio skips over "they could," sounding like "they c- they could." Proposed change: check to make sure AI script does not repeat phrase accidentally. At 16:20, audio pronounces "hundred" as "hun" in the number 261,918. Proposed change: Use phrase "two-hundred and six-one thousand nine hundred and eighteen" in AI script to affirm that it pronounces it correctly.
+- Audio: At 9:14, the audio skips over "they could," sounding like "they c- they could." Proposed change: check to make sure AI script does not repeat phrase accidentally. At 16:20, audio pronounces "hundred" as "hun" in the number 261,918. Proposed change: Use phrase "two-hundred and six-one thousand nine hundred and eighteen" in AI script to affirm that it pronounces it correctly. At 17:15, there is a pause between the words in "officers' servants" that makes it sound like "officers, servants," changing the original meaning of the text. Proposed change: make sure there is no comma in the AI script and that "officers'" has the correct apostraphe. 
 - Other:
 
 ### Chapter 7
