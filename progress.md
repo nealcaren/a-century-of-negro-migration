@@ -41,7 +41,7 @@
 ### Chapter 6
 - Footnotes: Fixed formatting (RS).
 - Accuracy:
-- Audio: At 9:14, the audio skips over "they could," sounding like "they c- they could." Proposed change: check to make sure AI script does not repeat phrase accidentally. At 16:20, audio pronounces "hundred" as "hun" in the number 226,152. Proposed change: Use phrase "two-hundred and twenty-six thousand one hundred and fifty-two" in AI script to affirm that it pronounces it correctly.
+- Audio: At 9:14, the audio skips over "they could," sounding like "they c- they could." Proposed change: check to make sure AI script does not repeat phrase accidentally. At 16:20, audio pronounces "hundred" as "hun" in the number 261,918. Proposed change: Use phrase "two-hundred and six-one thousand nine hundred and eighteen" in AI script to affirm that it pronounces it correctly.
 - Other:
 
 ### Chapter 7
