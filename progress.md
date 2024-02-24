@@ -86,4 +86,4 @@
 
 ### 2/24
 - Rook Schrader checked all chapters for proper roman numeral formatting.
-- Rook Schrader will be checking Chapter 6 for accuracy.
+- Rook Schrader will be checking Chapter 6 for accuracy. Proposed changes to audio have been noted, will be going back in to check punctuation and formatting.
