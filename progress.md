@@ -82,4 +82,7 @@
 - Rook Schrader has checked Chapter 3 for accuracy and made the appropriate notes.
 
 ### 2/23
-- Mia Neal checked Chapter 5 for accuracy. Made note of audio issues in Chapter 5. 
+- Mia Neal checked Chapter 5 for accuracy. Made note of audio issues in Chapter 5.
+
+### 2/24
+- Rook Schrader is going to check every chapter for proper roman numeral journal numbering.
