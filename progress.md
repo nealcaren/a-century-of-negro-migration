@@ -6,6 +6,7 @@
 - Belinda Woodard: BW
 - Lauren Brodeur: LB
 - Mia Neal: MN
+- Zoe Turner: ZT
 ## Chapter Status
 
 ### Chapter 1
