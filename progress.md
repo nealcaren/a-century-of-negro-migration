@@ -41,7 +41,7 @@
 ### Chapter 6
 - Footnotes: Fixed formatting (RS).
 - Accuracy:
-- Audio:
+- Audio: At 9:14, the audio skips over "they could," sounding like "they c- they could." Proposed change: check to make sure AI script does not repeat phrase accidentally.
 - Other:
 
 ### Chapter 7
