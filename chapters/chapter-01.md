@@ -40,7 +40,7 @@ It must be borne in mind here, however, that the North at this time was far from
 
   
 [^1]: Locke, *Anti-Slavery*, pp. 19, 20, 23; *Works of John Woolman*, pp. 58, 73; and Moore, *Notes on Slavery in Massachusetts*, p. 71.
-[^2]: Bassett, *Federalist System*, chap. XII. Hart, *Slavery and Abolition*, pp. 153, 154.
+[^2]: Bassett, *Federalist System*, chap. xii. Hart, *Slavery and Abolition*, pp. 153, 154.
 [^3]:  Turner, *The Rise of the New West*, pp. 45, 46, 47, 48, 49; Hammond, *Cotton Industry*, chaps. i and ii; Scherer, *Cotton as a World Power*, pp. 168, 175.
 [^4]: Locke, *Anti-Slavery*, chaps. i and ii.
 [^5]: Jay, *An Inquiry*, p. 30.
