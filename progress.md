@@ -29,7 +29,7 @@
 
 ### Chapter 4
 - Footnotes: Fixed formatting (RS).
-- Accuracy:
+- Accuracy: Words, formatting, and spelling are all correct (RS).
 - Audio: Pause between "liberated Africans" that doesn't make sense in the audio, unsure why. Proposed change: Check to make sure there is not accidental puncuation or extra spaces between words. On page 75, "Z." pronounced like "Zid." (LB)
 - Other:
 
