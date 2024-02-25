@@ -83,9 +83,13 @@
 - Rook Schrader has checked Chapter 3 for accuracy and made the appropriate notes.
 
 ### 2/23
+- Lauren Brodeur checked Chapter 4 for accuracy. Made notes of audio issues.
 - Mia Neal checked Chapter 5 for accuracy. Made note of audio issues in Chapter 5.
 
 ### 2/24
 - Rook Schrader checked all chapters for proper roman numeral formatting.
 - Rook Schrader checked Chapter 6 for accuracy.
 - Rook Schrader question about Chapter 6 accuracy: included note in text for a map, however no map in said place in the original text. Will we be adding this map for the project?
+
+### 2/24
+- Lauren Brodeur checked Chapter 7 for accuracy.
