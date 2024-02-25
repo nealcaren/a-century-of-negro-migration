@@ -48,7 +48,7 @@
 ### Chapter 7
 - Footnotes: Fixed formatting (RS).
 - Accuracy:
-- Audio:
+- Audio: The number "32690" and "43499" are pronounced weirdly and spoken really quickly on page 146. Proposed change: Spell out the numbers to make sure all syllables are pronounced. 
 - Other:
 
 ### Chapter 8
