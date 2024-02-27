@@ -94,3 +94,4 @@
 
 ### 2/27
 - Lauren Brodeur checked Chapter 8 for audio issues and accuracy.
+- Rook Schrader will be checking Chapter 9 for accuracy.
