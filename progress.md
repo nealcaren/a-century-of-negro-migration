@@ -53,8 +53,8 @@
 
 ### Chapter 8
 - Footnotes: Fixed Formatting (RS).
-- Accuracy:
-- Audio:
+- Accuracy: 
+- Audio: The words "Indianapolis Journal" are skipped over. The word "necessitates" is mispronounced as "necessates." "Chauffeurs" pronounced like "choffers." 
 - Other:
 
 ### Chapter 9
