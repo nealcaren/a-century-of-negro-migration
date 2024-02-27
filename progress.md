@@ -60,7 +60,7 @@
 ### Chapter 9
 - Footnotes: Fixed Formatting (RS).
 - Accuracy:
-- Audio:
+- Audio: At 4:30, ending syllables skipped in the word "thousand," sounds like "thou." Proposed change: write out word as THOU-zand.
 - Other:
 
 
