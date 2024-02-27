@@ -90,6 +90,7 @@
 - Rook Schrader checked all chapters for proper roman numeral formatting.
 - Rook Schrader checked Chapter 6 for accuracy.
 - Rook Schrader question about Chapter 6 accuracy: included note in text for a map, however no map in said place in the original text. Will we be adding this map for the project?
-
-### 2/24
 - Lauren Brodeur checked Chapter 7 for accuracy.
+
+### 2/27
+- Lauren Brodeur checked Chapter 8 for audio issues and accuracy.
