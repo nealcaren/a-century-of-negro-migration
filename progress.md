@@ -48,7 +48,7 @@
 ### Chapter 7
 - Footnotes: Fixed formatting (RS).
 - Accuracy: formatting, punctuation, and spelling accurate (BW).
-- Audio: The number "32690" and "43499" are pronounced weirdly and spoken really quickly on page 146. Proposed change: Spell out the numbers to make sure all syllables are pronounced. (LB)
+- Audio: The number "32690" and "43499" are pronounced weirdly and spoken really quickly on page 146. Proposed change: Spell out the numbers to make sure all syllables are pronounced. (LB) The number 3,500 is not spoken correctly (BW).
 - Other:
 
 ### Chapter 8
