@@ -60,7 +60,7 @@
 ### Chapter 9
 - Footnotes: Fixed Formatting (RS).
 - Accuracy:
-- Audio: At 4:30, ending syllables skipped in the word "thousand," sounds like "thou." Proposed change: write out word as THOU-zand.
+- Audio: At 4:30, ending syllables skipped in the word "thousand," sounds like "thou." Proposed change: write out word as THOU-zand. At 6:59, the number 4,500,000 is said as "four thousand five hundred thousand." Proposed change: write out the number as "four million five hundred thousand."
 - Other:
 
 
