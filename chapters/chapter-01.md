@@ -1,6 +1,5 @@
 # Finding a Place of Refuge
 
-
 ```{=html}
 <p>
 <audio controls>
