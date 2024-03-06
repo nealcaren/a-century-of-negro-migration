@@ -1,19 +1,32 @@
+# Index {.unnumbered}
 
-# Index
+
+
 
 Adams, Henry, leader of the exodus to Kansas,
 
-Akron, friends of fugitives in,
+Adams, Henry
+: [leader of the exodus to Kansas](chapter-07.md#henry-adams-leader)
 
-Alton Telegraph, comment of,
+Akron
+: friends of fugitives in
 
-Anderson, promoter of settling of Negroes in Jamaica,
+Alton Telegraph
+: comment of
 
-Anti-slavery, leaders of the movement, became more helpful to the refugees,
+Anderson
+: promoter of settling of Negroes in Jamaica
 
-Anti-slavery sentiment, of two kinds,
+Anti-slavery
+: leaders of the movement
+: became more helpful to the refugees
 
-American Federation of Labor, attitude of, toward Negro labor,
+Anti-slavery sentiment
+: of two kinds
+
+American Federation of Labor
+: attitude of
+: toward Negro labor
 
 Appalachian highland, settlers of, aided fugitives; exodus of Negroes to,
 
