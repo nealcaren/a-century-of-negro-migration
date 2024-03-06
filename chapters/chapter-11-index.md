@@ -2,9 +2,6 @@
 
 
 
-
-Adams, Henry, leader of the exodus to Kansas,
-
 Adams, Henry
 : [leader of the exodus to Kansas](chapter-07.md#henry-adams-leader)
 
@@ -18,15 +15,13 @@ Anderson
 : promoter of settling of Negroes in Jamaica
 
 Anti-slavery
-: leaders of the movement
-: became more helpful to the refugees
+: leaders of the movement became more helpful to the refugees
 
 Anti-slavery sentiment
 : of two kinds
 
 American Federation of Labor
-: attitude of
-: toward Negro labor
+: attitude of, toward Negro labor
 
 Appalachian highland, settlers of, aided fugitives; exodus of Negroes to,
 
@@ -90,7 +85,9 @@ Canaan, New Hampshire, break-up of school of, admitting Negroes,
 
 Canada, the migration of Negroes to; settlements in,
 
-Canadians, supply of slaves of; prohibited the importation of slaves,
+Canadians
+: [supply of slaves of](chapter-01.md#canadians-supply)
+: [prohibited the importation of slaves](chapter-01.md#canadians-prohibit)
 
 Canterbury, people of, imprison Prudence Crandall because she taught Negroes,
 
