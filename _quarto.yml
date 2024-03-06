@@ -19,7 +19,7 @@ book:
     - chapters/chapter-08.md
     - chapters/chapter-09.md
     - chapters/chapter-10-bibliography.md
-    - progress.md
+    - chapters/chapter-11-index.md
 
 
 format:
