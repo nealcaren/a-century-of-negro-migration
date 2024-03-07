@@ -1,27 +1,21 @@
 # Index {.unnumbered}
 
 
+::::: {.index}
 
-Adams, Henry
-: [leader of the exodus to Kansas](chapter-07.md#henry-adams-leader)
+Adams, Henry: [leader of the exodus to Kansas](chapter-07.md#henry-adams-leader)
 
-Akron
-: friends of fugitives in
+Akron: [friends of fugitives in](chapter-07.md#akron-friend)
 
-Alton Telegraph
-: comment of
+Alton Telegraph, comment of
 
-Anderson
-: promoter of settling of Negroes in Jamaica
+Anderson, promoter of settling of Negroes in Jamaica
 
-Anti-slavery
-: leaders of the movement became more helpful to the refugees
+Anti-slavery, leaders of the movement became more helpful to the refugees
 
-Anti-slavery sentiment
-: of two kinds
+Anti-slavery sentiment, of two kinds
 
-American Federation of Labor
-: attitude of, toward Negro labor
+American Federation of Labor, attitude of, toward Negro labor
 
 Appalachian highland, settlers of, aided fugitives; exodus of Negroes to,
 
@@ -85,9 +79,7 @@ Canaan, New Hampshire, break-up of school of, admitting Negroes,
 
 Canada, the migration of Negroes to; settlements in,
 
-Canadians
-: [supply of slaves of](chapter-01.md#canadians-supply)
-: [prohibited the importation of slaves](chapter-01.md#canadians-prohibit)
+Canadians: [supply of slaves of](chapter-01.md#canadians-supply); [prohibited the importation of slaves](chapter-01.md#canadians-prohibit)
 
 Canterbury, people of, imprison Prudence Crandall because she taught Negroes,
 
@@ -159,9 +151,9 @@ De Tocqueville, observation of, on the condition of free Negroes in the North,
 
 Delaware, disfranchisement of Negroes in,
 
-Detroit, Negroes in; friends of fugitives in; a gateway to Canada; the Negro question in; mob of, rises against Negroes; successful Negroes of,
+Detroit [Negroes in](chapter-02.md#detroit-in); [friends of fugitives in](chapter-02.md#detroit-friend); [a gateway to Canada](chapter-02.md#detroit-gateway); the Negro question in; mob of, rises against Negroes; successful Negroes of
 
-Dinwiddie, Governor, Fears of, as to servile insurrection,
+Dinwiddie, Governor [Fears of, as to servile insurrection](chapter-01.md#dinwiddie-fears)
 
 Diseases of Negroes in the North,
 
@@ -610,3 +602,6 @@ Wilcox, Samuel T., a merchant of Cincinnati,
 Yankees, comment of, on Negro labor,
 
 York, Negroes of; trouble with the Negroes of,
+
+
+:::::

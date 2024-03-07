@@ -1,6 +1,9 @@
 # Bibliography {.unnumbered}
 
+
 As the public has not as yet paid very much attention to Negro History, and has not seen a volume dealing primarily with the migration of the race in America, one could hardly expect that there has been compiled a bibliography in this special field. With the exception of what appears in Still's and Siebert's works on the *Underground Railroad* and the records of the meetings of the Quakers promoting this movement, there is little helpful material to be found in single volumes bearing on the antebellum period. Since the Civil War, however, more has been said and written concerning the movements of the Negro population. E.H. Botume's *First Days Among the Contrabands* and John Eaton's *Grant, Lincoln and the Freedmen* cover very well the period of rebellion. This is supplemented by J.C. Knowlton's *Contrabands* in the *University Quarterly*, Volume XXI, page 307, and by Edward L. Pierce's *The Freedmen at Port Royal* in the *Atlantic Monthly*, Volume XII, page 291. The exodus of 1879 is treated by J.B. Runnion in the *Atlantic Monthly*, Volume XLIV, page 222; by Frederick Douglass and Richard T. Greener in the *American Journal of Social Science*, Volume XI, page 1; by F.R. Guernsey in the *International Review*, Volume VII, page 373; by E.L. Godkin in the *Nation*, Volume XXVIII, pages 242 and 386; and by J.C. Hartzell in the *Methodist Quarterly*, Volume XXXIX, page 722. The second volume of George W. Williams's *History of the Negro Race* also contains a short chapter on the exodus of 1879. In Volume XVIII, page 370, of *Public Opinion* there is a discussion of *Negro Emigration and Deportation* as advocated by Bishop H.M. Turner and Senator Morgan of Alabama during the nineties. Professor William O. Scroggs of Louisiana University has in the *Journal of Political Economy*, Volume XXV, page 1034, an article entitled *Interstate Migration of Negro Population*. Mr. Epstein has published a helpful pamphlet, *The Negro Migrant in Pittsburgh*. Most of the material for this work, however, was collected from the various sources mentioned below.
+
+::::: {.bibliography}
 
 ## Books of Travel
 
@@ -52,7 +55,7 @@ Coffin, Levi. *Reminiscences of Levi Coffin, reputed President of the Undergroun
 
 Douglass, Frederick. *Narrative of the Life of Frederick Douglass, as an American Slave*. Written by himself. (Boston, 1845.) Gives several cases of secret Negro movements for their own good.
 
---*The Life and Times of Frederick Douglass from 1817 to 1882*. (London, 1882.) Written by himself. With an Introduction by the Eight Honorable John Bright, M.P. Edited by John Loeb, F.R.G.S., of the *Christian Age*. Editor of *Uncle Tom's Story of his Life*.
+---. *The Life and Times of Frederick Douglass from 1817 to 1882*. (London, 1882.) Written by himself. With an Introduction by the Eight Honorable John Bright, M.P. Edited by John Loeb, F.R.G.S., of the *Christian Age*. Editor of *Uncle Tom's Story of his Life*.
 
 ## Histories
 
@@ -96,7 +99,7 @@ Garrison, William Lloyd. *An Address Delivered before the Free People of Color i
 
 Griffin, Edward Dore. *A Plea for Africa,*. (New York, 1817.) A Sermon preached October 26, 1817, in the First Presbyterian Church in the City of New York before the Synod of New York and New Jersey at the Request of the Board of Directors of the African School established by the Synod. The aim was to arouse interest in colonization.
 
-# Reports and Statistics
+## Reports and Statistics
 
 *Special Report of the Commissioner of Education on the Improvement of Public Schools in the District of Columbia*, containing M. B. Goodwin's "History of Schools for the Colored Population in the District of Columbia." (Washington, 1871.)
 
@@ -164,7 +167,7 @@ American Convention of Abolition Societies. *Minutes of the Proceedings of a Con
 
 *Proceedings of the Convention of the Colored Freedmen of Ohio at Cincinnati, January 14, 1852*. (Cincinnati, Ohio, 1852.)
 
-# Miscellaneous Books and Pamphlets
+## Miscellaneous Books and Pamphlets
 
 Adams, Alice Dana. *The Neglected Period of Anti-Slavery in America*. Radcliffe College Monographs No. 14.\_ (Boston and London, 1908) Contains some valuable facts about the Negroes during the first three decades of the nineteenth century.
 
@@ -284,7 +287,7 @@ Hutchins, Thomas. *An Historical Narrative and Topographical Description of Loui
 
 *Indiana, Laws passed by the State of*.
 
-Jay, John. \_The Correspondence and Public Papers of John Jay. First Chief Justice of the United States and President of the Continental Congress, Member of the Commission to negotiate the Treaty of Independence, Envoy to Great Britain, Governor of New York, etc., 1782-1793. (New York and London, 1801.) Edited by Henry P. Johnson, Professor of History in the College of the City of New York.
+Jay, John. *The Correspondence and Public Papers of John Jay. First Chief Justice of the United States and President of the Continental Congress, Member of the Commission to negotiate the Treaty of Independence, Envoy to Great Britain, Governor of New York, etc., 1782-1793.* (New York and London, 1801.) Edited by Henry P. Johnson, Professor of History in the College of the City of New York.
 
 Jay, William. *An Inquiry into the Character and Tendencies of the American Colonisation and American Anti-Slavery Societies*. Second edition. (New York, 1835.)
 
@@ -358,7 +361,7 @@ Torrey, Jesse, Jr. *A Portraiture of Domestic Slavery in the United States with
 
 Turner, E.R. *The Negro in Pennsylvania*. (Washington, 1911.)
 
-*Tyrannical Libertymen: a Discourse upon Negro Slavery in the United States, composed at ---.  in New Hampshire: on the Late Federal Thanksgiving Day*. (Hanover, N. H., 1795.)
+*Tyrannical Libertymen: a Discourse upon Negro Slavery in the United States, composed at ------.  in New Hampshire: on the Late Federal Thanksgiving Day*. (Hanover, N. H., 1795.)
 
 Walker, David. *Walker's Appeal in Four Articles, together with a Preamble to the Colored Citizens of the World, but in particular and very expressly to those of the United States of America, Written in Boston, State of Massachusetts, September 28, 1829*. Second edition. (Boston, 1830.) Walker was a Negro who hoped to arouse his race to self-assertion.
 
@@ -462,3 +465,5 @@ Massachusetts. *The Liberator*.
 Mississippi. *The Vicksburg Daily Commercial*.
 
 New York. *The New York Daily Advertiser*. *The New York Tribune*. *The New York Times*.
+
+::::: 

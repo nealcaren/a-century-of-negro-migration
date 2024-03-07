@@ -1,5 +1,44 @@
 /*-- scss:rules --*/
 
+.index {
+  line-height: 1.2;
+  a {
+    color: grey; /* Set hyperlink color to grey */
+    text-decoration: none; /* Remove the underline */
+
+    &:hover {
+      text-decoration: underline; /* Add underline on hover */
+    }
+  }
+
+  p {
+    text-indent: -2em; /* Adjust the value to control the hanging indent */
+    padding-left: 2em; /* Adjust the value to match the text-indent */
+    margin-top: 0;
+    margin-bottom: 0.5em; /* Adjust spacing between entries */
+  }
+}
+
+
+.bibliography {
+  a {
+    color: grey; /* Set hyperlink color to grey */
+    text-decoration: none; /* Remove the underline */
+
+    &:hover {
+      text-decoration: underline; /* Add underline on hover */
+    }
+  }
+
+  p {
+    text-indent: -2em; /* Adjust the value to control the hanging indent */
+    padding-left: 2em; /* Adjust the value to match the text-indent */
+    margin-top: 0;
+    margin-bottom: 0.5em; /* Adjust spacing between entries */
+  }
+}
+
+
 .dedication {
     text-align: center; // Center align the text
     font-style: italic; // Apply italics to the text
