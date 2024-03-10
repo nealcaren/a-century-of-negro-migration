@@ -289,7 +289,7 @@ h3, h4, h5, h6 {
     font-weight: normal; 
 }
 
-.dedication > h1, .epigraph > h1, .copyright> h1 {
+.dedication > h1, .epigraph > h1, .copyright> h1, .preface > h1 {
     display: none;
     font-size: 0;
     height: 0;
@@ -308,6 +308,7 @@ h2 > p:first-of-type {
         text-indent: 0; /* This removes the indent from the first line */
 }
 
+
 /* Superscript for footnote markers in the text and set color to black */
 a.footnote-ref {
     vertical-align: super;
@@ -315,22 +316,14 @@ a.footnote-ref {
     color: black; /* Ensures the footnote marker is black */
 }
 
+
+
 /* Smaller text for footnotes */
 div.footnotes {
     font-size: 80%; /* Adjust the percentage as needed */
 }
 
 
-.footnotes ol {
-    list-style-type: none; /* No bullets */
-    padding-left: 0; /* Adjust as needed */
-}
-
-.footnotes li {
-    text-indent: -1em; /* Adjust as needed */
-    padding-left: 1em; /* Adjust as needed */
-    margin-bottom: 10px; /* Adjust as needed */
-}
 
 .footnotes .footnote-back {
     text-decoration: none; /* No underline */

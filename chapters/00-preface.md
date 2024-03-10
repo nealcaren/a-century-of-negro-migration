@@ -4,7 +4,7 @@ format:
     toc: false
 ---
 
-# Preface {.unnumbered}
+# Preface {.unnumbered .preface epub:type=preface} 
 
 
 In treating this movement of the Negroes, the writer does not presume to say the last word on the subject. The exodus of the Negroes from the South has just begun. The blacks have recently realized that they have freedom of body and they will now proceed to exercise that right. To presume, therefore, to exhaust the treatment of this movement in its incipiency is far from the intention of the writer. The aim here is rather to direct attention to this new phase of Negro American life which will doubtless prove to be the most significant event in our local history since the Civil War.

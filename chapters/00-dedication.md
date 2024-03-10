@@ -4,7 +4,8 @@ format:
     toc: false
 ---
 
-# Dedication {.unnumbered}
+# Dedication {.unnumbered .dedication epub:type=preface} 
+
 
 <div class="dedication">
 <p>To My Father</p>
