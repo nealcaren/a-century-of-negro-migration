@@ -86,7 +86,7 @@ Calvin Township, Cass County, Michigan: [a Negro community; note on progress of]
 
 Campbell, Sir George, comment on condition of Negroes in Kansas City
 
-Canaan, New Hampshire, break-up of school of, admitting Negroes,
+Canaan, New Hampshire: [break-up of school of, admitting Negroes,](chapter-03.md#canaan-nh-breakup)
 
 Canada, the migration of Negroes to; settlements in,
 
