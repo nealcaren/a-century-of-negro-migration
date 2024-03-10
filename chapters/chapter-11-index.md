@@ -150,6 +150,9 @@ Crozat, Antoine, as Governor of Louisiana,
 
 Cuffé, Paul, an actual colonizationist,
 
+::: {.small-break}
+::: 
+
 Davis, comment on freedmen's vagrancy,
 
 De Baptiste, Richard, father of, in Detroit,
@@ -176,6 +179,10 @@ Downing, Thomas, owner of a restaurant,
 
 Drain of laborers to Mississippi and Louisiana; to Arkansas and Texas,
 
+::: {.small-break}
+::: 
+
+
 Eaton, John, work of, among the refugees,
 
 Economic opportunities for the Negro in the North; economic opportunities for Negroes in the South,
@@ -193,6 +200,10 @@ Emancipation of the Negroes in the West Indies, the effect of,
 Epstein, Abraham, an authority on the Negro migrant in Pittsburgh,
 
 Exodus, the, during the World War; causes; efforts of the South to check it; Negroes divided on it; whites divided on it; unfortunate for the South; probable results; will increase political power of Negro; exodus of the Negroes to Kansas,
+
+::: {.small-break}
+::: 
+
 
 Fear of Negro domination to cease,
 
@@ -222,6 +233,10 @@ Fugitive Slave Law, a destroyer of Negro settlements,
 
 Fugitives coming to Pennsylvania,
 
+::: {.small-break}
+::: 
+
+
 Gallipolis, friends of fugitives in,
 
 Georgia, laws of, against Negro mechanics; slavery considered profitable in,
@@ -248,6 +263,10 @@ Gulf States, proposed Negro commonwealths of,
 
 Guild of Caterers, in Philadelphia,
 
+::: {.small-break}
+::: 
+
+
 Halleck, General, excluded slaves from his lines,
 
 Harlan, Robert, a horseman,
@@ -272,6 +291,10 @@ Hood, James W., went from Connecticut to North Carolina,
 
 Hunter, General, dealing with the refugees in South Carolina
 
+::: {.small-break}
+::: 
+
+
 Illinois, the attitude of, toward the Negro; race prejudice in; slavery question in the organization of; effort to make the constitution proslavery,
 
 Immigration of foreigners, cessation of, a cause of the Negro migration,
@@ -288,6 +311,10 @@ Intimidation, a cause of migration,
 
 Irish, antagonistic to Negroes; their hatred of Negroes,
 
+::: {.small-break}
+::: 
+
+
 Jamaica, Negroes of the United States settled in,
 
 Jay's Treaty,
@@ -299,6 +326,10 @@ Jenkins, David, a paper hanger and glazier,
 Johnson, General, permitted slave hunters to seek their slaves in his lines,
 
 Julius, John, proprietor of a cafe in which he entertained President William H. Harrison,
+
+::: {.small-break}
+::: 
+
 
 *Kansas Freedmen's Relief Association*, the work of,
 
@@ -317,6 +348,10 @@ Key, Francis S., a colonizationist,
 Kingsley, Z., a master, settled his son of color in Hayti,
 
 Ku Klux Klan, the work of,
+
+::: {.small-break}
+::: 
+
 
 Labor agents promoting the migration of Negroes,
 
@@ -343,6 +378,10 @@ Lower Louisiana, conditions of; conditions of slaves in,
 Lundy, Benjamin, promoter of the migration of Negroes,
 
 Lynching, a cause of migration; number of Negroes lynched,
+
+::: {.small-break}
+::: 
+
 
 McCook, General, permitted slave hunters to seek their Negroes in his lines,
 
@@ -374,6 +413,10 @@ Mulber, Stephen, a contractor,
 
 Murder of Negroes in the South,
 
+::: {.small-break}
+::: 
+
+
 Natural rights, the effect of; the discussion of, on the condition of the Negro,
 
 Negro journalists, the number of
@@ -396,6 +439,10 @@ Noyes Academy, broken up because it admitted Negroes,
 
 Nugent, Colonel W.L., interest in stopping the exodus to Kansas,
 
+::: {.small-break}
+::: 
+
+
 Occupations of Negroes in the North,
 
 Ohio, Negro question in constitutional convention of; in the legislature of 1804; black laws of; protest against Negroes,
@@ -407,6 +454,10 @@ Ordinance of 1784 rejected,
 Ordinance of 1787, passed; meaning of sixth article of; reasons for the passage of; did not at first disturb slavery; construction of,
 
 Otis, James, on natural rights,
+
+::: {.small-break}
+::: 
+
 
 Pacific Railroad, proposal to build, with refugee labor,
 
@@ -448,7 +499,15 @@ Press comments on sending Negroes to Africa,
 
 Puritans, not much interested in the Negro,
 
+::: {.small-break}
+::: 
+
+
 Quakers, promoted the movement of the blacks to Western territory; in the mountains assisted fugitives,
+
+::: {.small-break}
+::: 
+
 
 Race prejudice, the effects of; among laboring classes,
 
@@ -477,6 +536,10 @@ Riley, William H., a well-to-do bootmaker,
 Ringold, Thomas, advertisement of, for a slave in the West,
 
 Rochester, friends of fugitives in,
+
+::: {.small-break}
+::: 
+
 
 Saint John, Governor, aid of, to the Negroes in Kansas,
 
@@ -534,6 +597,10 @@ Success of Negro migrants,
 
 Suffrage of the Negroes in the colonies,
 
+::: {.small-break}
+::: 
+
+
 Tappan, Arthur, attacked by New York mob,
 
 Tappan, Lewis, attacked by New York mob,
@@ -556,6 +623,10 @@ Trinidad, the exodus of Negroes to; Negroes from Philadelphia settled there,
 
 Turner, Bishop H.M., interested in sending Negroes to Africa,
 
+::: {.small-break}
+::: 
+
+
 Upper and Lower Camps of Brown County, Ohio, Negroes of,
 
 Upper Louisiana, conditions of; conditions of slaves in,
@@ -563,6 +634,10 @@ Upper Louisiana, conditions of; conditions of slaves in,
 Unrest of the Negroes in the South after Reconstruction; causes of; credit system a cause; land system a cause; further unrest of intelligent Negroes,
 
 Utica, mob of, attacked anti-slavery leaders,
+
+::: {.small-break}
+::: 
+
 
 Vagrancy of Negroes after emancipation; drastic legislation against,
 
@@ -575,6 +650,10 @@ Viner, M., mentioned slave settlements in West,
 Virginia, disfranchisement of Negroes in; Quakers of, promoting the migration of the Negroes; reaction in; refugees in,
 
 Vorhees, Senator D.W., offered a resolution in Senate inquiring into the exodus to Kansas,
+
+::: {.small-break}
+::: 
+
 
 Washington, Judge Bushrod, a colonizationist,
 
@@ -609,6 +688,10 @@ Wickham, executor of Samuel Gist, settled Gist's Negroes in Ohio,
 Wilberforce University established at a slave settlement,
 
 Wilcox, Samuel T., a merchant of Cincinnati,
+
+::: {.small-break}
+::: 
+
 
 Yankees, comment of, on Negro labor,
 
