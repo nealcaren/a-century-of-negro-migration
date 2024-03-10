@@ -100,7 +100,7 @@ Cassey, Joseph C., a lumber merchant,
 
 Cassey, Joseph, a broker in Philadelphia,
 
-Chester, T. Morris, went from Pittsburgh to settle in Louisiana,
+Chester, T. Morris: [went from Pittsburgh to settle in Louisiana,](chapter-06.md#chester-morris-pittsburgh)
 
 Cincinnati, friends of fugitives in; mobs; successful Negroes of,
 
