@@ -80,7 +80,7 @@ Butler, General: [holds Negroes as contraband](chapter-07.md#butler-contraband);
 ::: {.small-break}
 ::: 
 
-Cairo, Illinois, an outlet for the refugees
+Cairo, Illinois: [an outlet for the refugees](chapter-06.md#cairo-illinois-outlet)
 
 Calvin Township, Cass County, Michigan, a Negro community; note on progress of
 
