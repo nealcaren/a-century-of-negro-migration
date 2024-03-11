@@ -96,7 +96,7 @@ Canterbury, people of, imprison Prudence Crandall because she taught Negroes,
 
 Cardoza, F.L., return of from Edinburgh to South Carolina,
 
-Cassey, Joseph C., a lumber merchant,
+Cassey, Joseph C.: [a lumber merchant](chapter-05.md#joseph-cassey-lumber)
 
 Cassey, Joseph, a broker in Philadelphia,
 
