@@ -84,7 +84,7 @@ Cairo, Illinois: [an outlet for the refugees](chapter-06.md#cairo-illinois-outle
 
 Calvin Township, Cass County, Michigan: [a Negro community; note on progress of](chapter-02.md#calvin-township-community)
 
-Campbell, Sir George, comment on condition of Negroes in Kansas City
+Campbell, Sir George: [comment on condition of Negroes in Kansas City](chapter-07.md#george-campbell-testimony)
 
 Canaan, New Hampshire: [break-up of school of, admitting Negroes,](chapter-03.md#canaan-nh-breakup)
 
