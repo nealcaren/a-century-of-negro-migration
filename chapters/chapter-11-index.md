@@ -118,7 +118,7 @@ Colgate, Richard, master of James Wenyam who escaped to the West,
 
 Collins, Henry M., interest of, in colonization; a real estate man in Pittsburgh,
 
-Corbin, J.C., return of, from Chillicothe to Arkansas,
+Corbin, J.C.: [return of, from Chillicothe to Arkansas,](chapter-06.md#jc-corbin-return)
 
 Colonization proposed as a remedy for migration, in the West; organization of society of; failure to remove free Negroes; opposed by free people of color; meetings of, in the interest of the West Indies; impeded by the exodus to the West Indies; a remedy for migration,
 
