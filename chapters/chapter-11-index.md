@@ -106,7 +106,7 @@ Cincinnati, friends of fugitives in; mobs; successful Negroes of,
 
 Clark, Edward V., a jeweler,
 
-Clay, Henry: [a colonizationist]{chapter-04.md{#henry-clay-colonization}
+Clay, Henry: [a colonizationist]{chapter-04.md#henry-clay-colonization}
 
 Code for indentured servants in West, note,
 
