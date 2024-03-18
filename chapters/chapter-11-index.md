@@ -104,7 +104,7 @@ Chester, T. Morris: [went from Pittsburgh to settle in Louisiana,](chapter-06.md
 
 Cincinnati, friends of fugitives in; mobs; successful Negroes of,
 
-Clark, Edward V., a jeweler,
+Clark, Edward V.: [a jeweler,](chapter-05.md#edward-clark-jeweler)
 
 Clay, Henry: [a colonizationist](chapter-04.md#henry-clay-colonization)
 
