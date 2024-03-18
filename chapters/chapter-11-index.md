@@ -114,7 +114,7 @@ Coffin, Levi: [comment on the condition of the refugees,](chapter-06.md#levi-cof
 
 Coles, Edward, moved to Illinois to free his slaves; correspondence with Jefferson on slavery,
 
-Colgate, Richard, master of James Wenyam who escaped to the West,
+Colgate, Richard: [master of James Wenyam who escaped to the West,](chapter-01.md#richard-colgate-master)
 
 Collins, Henry M., interest of, in colonization; a real estate man in Pittsburgh,
 
