@@ -142,7 +142,7 @@ Cook, Forman B.: [a broker,](chapter-05.md#forman-cook-broker)
 
 Crandall, A.W., interest in checking the exodus to Kansas,
 
-Crandall, Prudence, imprisoned because she taught Negroes,
+Crandall, Prudence: [imprisoned because she taught Negroes,](chapter-03.md#prudence-crandall-prison)
 
 Credit system, a cause of unrest,
 
