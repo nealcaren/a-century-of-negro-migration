@@ -94,7 +94,7 @@ Canadians: [supply of slaves of](chapter-01.md#canadians-supply); [prohibited th
 
 Canterbury, people of, imprison Prudence Crandall because she taught Negroes,
 
-Cardoza, F.L., return of from Edinburgh to South Carolina,
+Cardoza, F.L.: [return of from Edinburgh to South Carolina,](chapter-06.md#fl-cardoza-return)
 
 Cassey, Joseph C.: [a lumber merchant](chapter-05.md#joseph-cassey-lumber)
 
