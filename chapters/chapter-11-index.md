@@ -110,7 +110,7 @@ Clay, Henry: [a colonizationist](chapter-04.md#henry-clay-colonization)
 
 Code for indentured servants in West, note,
 
-Coffin, Levi, comment on the condition of the refugees,
+Coffin, Levi: [comment on the condition of the refugees,](chapter-06.md#levi-coffin-conditions)
 
 Coles, Edward, moved to Illinois to free his slaves; correspondence with Jefferson on slavery,
 
