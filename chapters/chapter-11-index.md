@@ -138,7 +138,7 @@ Connecticut, exterminated slavery; law of; against teaching Negroes,
 
 Conventions of Negroes,
 
-Cook, Forman B., a broker,
+Cook, Forman B.: [a broker,](chapter-05.md#forman-cook-broker)
 
 Crandall, A.W., interest in checking the exodus to Kansas,
 
