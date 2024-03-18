@@ -146,7 +146,7 @@ Crandall, Prudence: [imprisoned because she taught Negroes,](chapter-03.md#prude
 
 Credit system, a cause of unrest,
 
-Crozat, Antoine, as Governor of Louisiana,
+Crozat, Antoine: [as Governor of Louisiana,](chapter-01.md#antoine-crozat-governor)
 
 Cuffé, Paul, an actual colonizationist,
 
