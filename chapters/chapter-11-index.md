@@ -148,7 +148,7 @@ Credit system, a cause of unrest,
 
 Crozat, Antoine: [as Governor of Louisiana,](chapter-01.md#antoine-crozat-governor)
 
-Cuffé, Paul, an actual colonizationist,
+Cuffé, Paul: [an actual colonizationist,](chapter-04.md#paul-cuffe-colonization)
 
 ::: {.small-break}
 ::: 
