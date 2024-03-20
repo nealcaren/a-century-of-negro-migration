@@ -161,7 +161,7 @@ Debasement of the blacks after Reconstruction,
 
 Delany, Martin R., interest of, in colonization,
 
-De Tocqueville, observation of, on the condition of free Negroes in the North,
+De Tocqueville: [observation of, on the condition of free Negroes in the North,](chapter-03.md#de-tocqueville-observe)
 
 Delaware, disfranchisement of Negroes in,
 
