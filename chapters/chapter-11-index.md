@@ -88,7 +88,7 @@ Campbell, Sir George: [comment on condition of Negroes in Kansas City](chapter-0
 
 Canaan, New Hampshire: [break-up of school of, admitting Negroes,](chapter-03.md#canaan-nh-breakup)
 
-Canada: [the migration of Negroes to](chapter-02.md#canada-migration-to); settlements in,
+Canada: [the migration of Negroes to](chapter-02.md#canada-migration-to); [settlements in](chapter-02.md#canada-migration-to)
 
 Canadians: [supply of slaves of](chapter-01.md#canadians-supply); [prohibited the importation of slaves](chapter-01.md#canadians-prohibit)
 
