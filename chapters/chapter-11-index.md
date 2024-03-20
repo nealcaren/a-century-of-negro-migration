@@ -163,7 +163,7 @@ Delany, Martin R., interest of, in colonization,
 
 De Tocqueville: [observation of, on the condition of free Negroes in the North,](chapter-03.md#de-tocqueville-observe)
 
-Delaware, disfranchisement of Negroes in,
+Delaware: [disfranchisement of Negroes in,](chapter-03.md#delaware-disenfranchise)
 
 Detroit [Negroes in](chapter-02.md#detroit-in); [friends of fugitives in](chapter-02.md#detroit-friend); [a gateway to Canada](chapter-02.md#detroit-gateway); the Negro question in; mob of, rises against Negroes; successful Negroes of
 
