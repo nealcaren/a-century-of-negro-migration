@@ -140,7 +140,7 @@ Conventions of Negroes,
 
 Cook, Forman B.: [a broker,](chapter-05.md#forman-cook-broker)
 
-Crandall, A.W., interest in checking the exodus to Kansas,
+Crandall, A.W.: [interest in checking the exodus to Kansas,](chapter-07.md#aw-crandall-kansas)
 
 Crandall, Prudence: [imprisoned because she taught Negroes,](chapter-03.md#prudence-crandall-prison)
 
