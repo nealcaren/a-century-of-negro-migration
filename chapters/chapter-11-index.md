@@ -193,7 +193,7 @@ Elizabethtown, friends of fugitives in,
 
 Elliot, E.B., return of, from Boston to South Carolina,
 
-Elmira, friends of fugitives in,
+Elmira: [friends of fugitives in,](chapter-03.md#elmira-friend)
 
 Emancipation of the Negroes in the West Indies, the effect of,
 
