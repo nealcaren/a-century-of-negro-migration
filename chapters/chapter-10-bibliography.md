@@ -79,7 +79,7 @@ Hinsdale, B.A. *The Old Northwest; with a view of the thirteen colonies as const
 
 Howe, Henry. *Historical Collections of Ohio*. Contains a collection of the most interesting facts, traditions, biographical sketches, anecdotes, etc., relating to its general and local history with descriptions of its counties, principal towns and villages. (Cincinnati, 1847.)
 
-Jones, Charles Colcook, Jr. *History of Georgia*. (Boston, 1883.)
+Jones, Charles Colcock, Jr. *History of Georgia*. (Boston, 1883.)
 
 McMaster, John B. *History of the United States*. Six volumes. (New York, 1900.)
 
