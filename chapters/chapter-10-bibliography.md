@@ -207,7 +207,7 @@ Birney, James G. *The American Churches, the Bulwarks of American Slavery, by an
 
 Birney, William. *James G. Birney and his Times. The Genesis of the Republican Party, with Some Account of the Abolition Movements in the South before 1828*. (New York, 1890.)
 
-Brackett, Jeffery B. *The Negro in Maryland. A Study of the Institution of Slavery*. (Baltimore, Johns Hopkins University, 1889.)
+Brackett, Jeffery R. *The Negro in Maryland. A Study of the Institution of Slavery*. (Baltimore, Johns Hopkins University, 1889.)
 
 Brannagan, Thomas. *A Preliminary Essay on the Oppression of the Exiled Sons of Africa, Consisting of Animadversions on the Impolicy and Barbarity of the Deleterious Commerce and Subsequent Slavery of the Human Species*. (Philadelphia: Printed for the Author by John W. Scott, 1804.)
 
