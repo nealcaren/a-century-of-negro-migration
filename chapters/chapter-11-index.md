@@ -62,7 +62,7 @@ Boyd, Henry: [a successful mechanic in Cincinnati](chapter-05.md#boyd-henry) <!-
 
 Brannagan, Thomas: [advocate of colonizing the Negroes in the West](chapter-01.md#brannagan-advocate); [interest of, in settling Negroes in the West](chapter-04.md#brannagan-interest) <!-- p.10, p.61 -->
 
-Brisot de Warville: [observations of, on Negroes in the West](chapter-01.md#brisot-observation) <!-- p.12 -->
+Brissot de Warville: [observations of, on Negroes in the West](chapter-01.md#brisot-observation) <!-- p.12 -->
 
 British Guiana: [attractive to free Negroes](chapter-04.md#british-guiana) <!-- p.68 -->
 
