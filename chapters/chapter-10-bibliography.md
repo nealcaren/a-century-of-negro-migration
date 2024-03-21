@@ -97,7 +97,7 @@ Tremain, Mary M.A. *Slavery in the District of Columbia*. (University of Nebras
 
 Garrison, William Lloyd. *An Address Delivered before the Free People of Color in Philadelphia, New York and other Cities during the Month of June, 1831*. (Boston, 1831.)
 
-Griffin, Edward Dore. *A Plea for Africa,*. (New York, 1817.) A Sermon preached October 26, 1817, in the First Presbyterian Church in the City of New York before the Synod of New York and New Jersey at the Request of the Board of Directors of the African School established by the Synod. The aim was to arouse interest in colonization.
+Griffin, Edward Dorr. *A Plea for Africa,*. (New York, 1817.) A Sermon preached October 26, 1817, in the First Presbyterian Church in the City of New York before the Synod of New York and New Jersey at the Request of the Board of Directors of the African School established by the Synod. The aim was to arouse interest in colonization.
 
 ## Reports and Statistics
 
