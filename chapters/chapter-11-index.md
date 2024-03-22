@@ -175,7 +175,7 @@ Distribution of intelligent blacks,
 
 Douglass, Frederick, the leading Negro journalist; advice of, on staying in the South to retain political power; comment of, on exodus to Kansas,
 
-Downing, Thomas, owner of a restaurant,
+Downing, Thomas: [owner of a restaurant,](chapter-05.md#thomas-downing-restaurant)
 
 Drain of laborers to Mississippi and Louisiana; to Arkansas and Texas,
 
