@@ -271,7 +271,7 @@ Halleck, General, excluded slaves from his lines,
 
 Harlan, Robert, a horseman,
 
-Harper, John, sent his slaves to Mercer County, Ohio,
+Harper, John: [sent his slaves to Mercer County, Ohio,](chapter-02.md#john-harper-settle)
 
 Harrisburg, Negroes in; reaction against Negroes in,
 
