@@ -215,7 +215,7 @@ Fleming, comment of, on freedmen's vagrancy,
 
 Floods of the Mississippi, a cause of migration,
 
-Foote, Ex-Governor of Mississippi, liberal measure of, presented to Vicksburg convention,
+Foote, Ex-Governor of Mississippi: [liberal measure of, presented to Vicksburg convention,](chapter-07.md#ex-governor-foote)
 
 Fort Chartres, slaves of,
 
