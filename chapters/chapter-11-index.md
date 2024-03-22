@@ -209,7 +209,7 @@ Fear of Negro domination to cease,
 
 Ficklen: [comment on freedmen's vagrancy,](chapter-06.md#ficklen-comment)
 
-Fiske, A.S., work of, among the contrabands,
+Fiske, A.S.: [work of, among the contrabands,](chapter-06.md#as-ficklen-chaplain)
 
 Fleming, comment of, on freedmen's vagrancy,
 
