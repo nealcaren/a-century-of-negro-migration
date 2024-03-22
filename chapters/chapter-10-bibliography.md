@@ -215,7 +215,7 @@ Brannagan, T. *Serious Remonstrances Addressed to the Citizens of the Northern S
 
 Campbell, J. V. *Political History of Michigan*. (Detroit, 1876.)
 
-*Code Noir ou Recueil d'édits, declarations et arrêts concernant la Discipline et le commerce des esclaves Nègres des isles francaises de l'Amérique (in Recueils de réglemens, edits, declarations et arrêts, concernant le commerce, l'administration de la justice et la police des colonies francaises de l'Amérique, et les engages avec le Code Noir, et l'addition audit code)*. (Paris, 1745.)
+*Code Noir ou Recueil d'édits, declarations et arrêts concernant la Discipline et le commerce des esclaves Nègres des isles francaises de l'Amérique (in Recueils de réglemens, edits, declarations et arrêts, concernant le commerce, l'administration de la justice et la police des colonies francaises de l'Amérique, et les engagés avec le Code Noir, et l'addition audit code)*. (Paris, 1745.)
 
 Coffin, Joshua. *An Account of Some of the principal Slave Insurrections and others which have occurred or been attempted in the United States and elsewhere during the last two Centuries. With various Remarks. Collected from various Sources*. (New York, 1860.)
 
