@@ -191,7 +191,7 @@ Educational facilities, the lack of,
 
 Elizabethtown, friends of fugitives in,
 
-Elliot, E.B., return of, from Boston to South Carolina,
+Elliot, E.B.: [return of, from Boston to South Carolina,](chapter-06.md#rb-elliot-boston)
 
 Elmira: [friends of fugitives in,](chapter-03.md#elmira-friend)
 
