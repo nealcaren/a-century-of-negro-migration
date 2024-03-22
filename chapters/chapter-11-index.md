@@ -153,7 +153,7 @@ Cuffé, Paul: [an actual colonizationist,](chapter-04.md#paul-cuffe-colonization
 ::: {.small-break}
 ::: 
 
-Davis, comment on freedmen's vagrancy,
+Davis: [comment on freedmen's vagrancy,](chapter-06.md#davis-vagrancy)
 
 De Baptiste, Richard, father of, in Detroit,
 
