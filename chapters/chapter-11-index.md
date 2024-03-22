@@ -217,7 +217,7 @@ Floods of the Mississippi, a cause of migration,
 
 Foote, Ex-Governor of Mississippi: [liberal measure of, presented to Vicksburg convention,](chapter-07.md#ex-governor-foote)
 
-Fort Chartres, slaves of,
+Fort Chartres: [slaves of,](chapter-01.md#fort-chartres-settlement)
 
 Forten, James, a wealthy Negro,
 
