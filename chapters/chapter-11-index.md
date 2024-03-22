@@ -273,7 +273,7 @@ Harlan, Robert, a horseman,
 
 Harper, John, sent his slaves to Mercer County, Ohio,
 
-Hamsburg, Negroes in; reaction against Negroes in,
+Harrisburg, Negroes in; reaction against Negroes in,
 
 Harrison, President William H., accommodated at the café of John Julius, a Negro,
 
