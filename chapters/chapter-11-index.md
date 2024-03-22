@@ -183,7 +183,7 @@ Drain of laborers to Mississippi and Louisiana; to Arkansas and Texas,
 ::: 
 
 
-Eaton, John, work of, among the refugees,
+Eaton, John: [work of, among the refugees,](chapter-06.md#john-eaton-work)
 
 Economic opportunities for the Negro in the North; economic opportunities for Negroes in the South,
 
