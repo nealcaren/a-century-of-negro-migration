@@ -237,7 +237,7 @@ Fugitives coming to Pennsylvania,
 ::: 
 
 
-Gallipolis, friends of fugitives in,
+Gallipolis: [friends of fugitives in,](chapter-02.md#gallipolis-friend)
 
 Georgia, laws of, against Negro mechanics; slavery considered profitable in,
 
