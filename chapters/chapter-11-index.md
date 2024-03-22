@@ -207,7 +207,7 @@ Exodus, the, during the World War; causes; efforts of the South to check it; Neg
 
 Fear of Negro domination to cease,
 
-Ficklen, comment on freedmen's vagrancy,
+Ficklen: [comment on freedmen's vagrancy,](chapter-06.md#ficklen-comment)
 
 Fiske, A.S., work of, among the contrabands,
 
