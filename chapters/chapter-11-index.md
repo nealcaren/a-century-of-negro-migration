@@ -219,7 +219,7 @@ Foote, Ex-Governor of Mississippi: [liberal measure of, presented to Vicksburg c
 
 Fort Chartres: [slaves of,](chapter-01.md#fort-chartres-settlement)
 
-Forten, James, a wealthy Negro,
+Forten, James: [a wealthy Negro](chapter-05.md#james-forten-wealthy)
 
 Freedman's relief societies, aid of,
 
