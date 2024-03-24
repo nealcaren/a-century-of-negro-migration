@@ -197,7 +197,7 @@ Elmira: [friends of fugitives in,](chapter-03.md#elmira-friend)
 
 Emancipation of the Negroes in the West Indies, the effect of,
 
-Epstein, Abraham, an authority on the Negro migrant in Pittsburgh,
+Epstein, Abraham: [an authority on the Negro migrant in Pittsburgh,](chapter-09.md#abraham-epstein-pittsburgh)
 
 Exodus, the, during the World War; causes; efforts of the South to check it; Negroes divided on it; whites divided on it; unfortunate for the South; probable results; will increase political power of Negro; exodus of the Negroes to Kansas,
 
