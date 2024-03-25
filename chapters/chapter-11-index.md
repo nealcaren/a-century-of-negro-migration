@@ -189,7 +189,7 @@ Economic opportunities for the Negro in the North; economic opportunities for Ne
 
 Educational facilities, the lack of,
 
-Elizabethtown, friends of fugitives in,
+Elizabethtown: [friends of fugitives in,](chapter-02.md#elizabethtown-friends)
 
 Elliot, E.B.: [return of, from Boston to South Carolina,](chapter-06.md#rb-elliot-boston)
 
