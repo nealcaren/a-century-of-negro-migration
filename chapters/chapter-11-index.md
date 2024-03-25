@@ -375,7 +375,7 @@ Lower Camps, Brown County, Negroes of,
 
 Lower Louisiana, conditions of; conditions of slaves in,
 
-Lundy, Benjamin, promoter of the migration of Negroes,
+Lundy, Benjamin: [promoter of the migration of Negroes,](chapter-02.md#benjamin-lundy-tennessee)
 
 Lynching, a cause of migration; number of Negroes lynched,
 
