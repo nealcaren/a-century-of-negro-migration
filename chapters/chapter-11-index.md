@@ -257,7 +257,7 @@ Grant, General U.S., protected refugees in his camp; retained them at Fort Donel
 
 Greener, R.T., comment of, on the exodus to Kansas; went from Philadelphia to South Carolina,
 
-Gregg, Theodore H., sent his manumitted slaves to Ohio,
+Gregg, Theodore H.: [sent his manumitted slaves to Ohio,](chapter-02.md#theodore-gregg-dinwiddie)
 
 Gulf States, proposed Negro commonwealths of,
 
