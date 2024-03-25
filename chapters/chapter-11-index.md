@@ -247,7 +247,7 @@ Gibbs, Judge M.W., went from Philadelphia to Arkansas,
 
 Gilmore's High School, work of, in Cincinnati,
 
-Gist, Samuel, settled his Negroes in Ohio,
+Gist, Samuel: [settled his Negroes in Ohio,](chapter-02.md#samuel-gist-settle)
 
 Goodrich, William, owner of railroad stock,
 
