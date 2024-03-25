@@ -339,7 +339,7 @@ Kaokia, slaves of,
 
 Kaskaskia, slaves of,
 
-Keith, George, interested in the Negroes,
+Keith, George: [interested in the Negroes,](chapter-02.md#george-keith-quaker)
 
 Kentucky, disfranchisement of Negroes in; abolition society of, advocated the colonization of the blacks in the West,
 
