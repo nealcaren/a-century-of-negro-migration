@@ -249,7 +249,7 @@ Gilmore's High School, work of, in Cincinnati,
 
 Gist, Samuel: [settled his Negroes in Ohio,](chapter-02.md#samuel-gist-settle)
 
-Goodrich, William, owner of railroad stock,
+Goodrich, William: [owner of railroad stock,](chapter-05.md#william-goodrich-railroad)
 
 Gordon, Robert, a successful coal dealer in Cincinnati,
 
