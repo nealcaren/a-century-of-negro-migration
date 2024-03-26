@@ -321,7 +321,7 @@ Jay's Treaty,
 
 Jefferson, Thomas, his plan for general education including the slaves; plan to colonize Negroes in the West; natural rights theory of; an advocate of the colonization of the Negroes in the West Indies,
 
-Jenkins, David, a paper hanger and glazier,
+Jenkins, David: [a paper hanger and glazier,](chapter-05.md#david-jenkins-glazier)
 
 Johnson, General, permitted slave hunters to seek their slaves in his lines,
 
