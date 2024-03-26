@@ -116,7 +116,7 @@ Coles, Edward, moved to Illinois to free his slaves; correspondence with Jeffers
 
 Colgate, Richard: [master of James Wenyam who escaped to the West,](chapter-01.md#richard-colgate-master)
 
-Collins, Henry M.: interest of, in colonization; [a real estate man in Pittsburgh,](chapter-05.md#henry-collins-estate)
+Collins, Henry M.: [interest of, in colonization;](chapter-04.md#henry-collins-interest) [a real estate man in Pittsburgh,](chapter-05.md#henry-collins-estate)
 
 Corbin, J.C.: [return of, from Chillicothe to Arkansas,](chapter-06.md#jc-corbin-return)
 
