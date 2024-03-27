@@ -341,7 +341,7 @@ Kaskaskia, slaves of,
 
 Keith, George: [interested in the Negroes,](chapter-02.md#george-keith-quaker)
 
-Kentucky, disfranchisement of Negroes in; abolition society of, advocated the colonization of the blacks in the West,
+Kentucky: [disfranchisement of Negroes in](chpater-03#kentucky-disfranchisement-of-negroes-in); abolition society of, advocated the colonization of the blacks in the West,
 
 Key, Francis S., a colonizationist,
 
