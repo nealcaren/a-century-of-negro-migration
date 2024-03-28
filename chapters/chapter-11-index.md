@@ -323,7 +323,7 @@ Jefferson, Thomas, his plan for general education including the slaves; plan to 
 
 Jenkins, David: [a paper hanger and glazier,](chapter-05.md#david-jenkins-glazier)
 
-Johnson, General, permitted slave hunters to seek their slaves in his lines,
+Johnson, General: [permitted slave hunters to seek their slaves in his lines,](chapter-06.md#general-johnson-hunters)
 
 Julius, John: [proprietor of a cafe in which he entertained President William H. Harrison,](chapter-05.md#john-julius-cafe)
 
