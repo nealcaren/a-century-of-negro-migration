@@ -229,7 +229,7 @@ French, departure of, from West to keep slaves; welcome of, to fugitive slaves o
 
 Friends of fugitives,
 
-Fugitive Slave Law, a destroyer of Negro settlements,
+Fugitive Slave Law: [a destroyer of Negro settlements,](chapter-05.md#fugitive-slave-law-1850)
 
 Fugitives coming to Pennsylvania,
 
