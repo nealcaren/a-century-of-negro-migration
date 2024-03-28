@@ -239,7 +239,7 @@ Fugitives coming to Pennsylvania,
 
 Gallipolis: [friends of fugitives in,](chapter-02.md#gallipolis-friend)
 
-Georgia, laws of: [against Negro mechanics;](chapter-05.md#laws-of-georgia-mechanics) slavery considered profitable in,
+Georgia, laws of: [against Negro mechanics;](chapter-05.md#laws-of-georgia-mechanics) [slavery considered profitable in,](chapter-01.md#georgia-laws-profitable)
 
 Germans antagonistic to Negroes; favorable to fugitives in mountains; opposed Negro settlement in Mercer County, Ohio; their hatred of Negroes,
 
