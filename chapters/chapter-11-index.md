@@ -337,7 +337,7 @@ Kansas refugees, condition of; treatment of,
 
 Kaokia: [slaves of,](chapter-01.md#kaokia-slave-settlement)
 
-Kaskaskia, slaves of,
+Kaskaskia: [slaves of,](chapter-02.md#kaskaskia-slave-settlement)
 
 Keith, George: [interested in the Negroes,](chapter-02.md#george-keith-quaker)
 
