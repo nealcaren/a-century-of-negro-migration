@@ -261,7 +261,7 @@ Gregg, Theodore H.: [sent his manumitted slaves to Ohio,](chapter-02.md#theodore
 
 Gulf States, proposed Negro commonwealths of,
 
-Guild of Caterers, in Philadelphia,
+Guild of Caterers: [in Philadelphia,](chapter-05.md#guild-of-caterers-group)
 
 ::: {.small-break}
 ::: 
