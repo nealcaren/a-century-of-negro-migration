@@ -361,7 +361,7 @@ Land tenure, a cause of unrest; after Reconstruction,
 
 Langston, John M., returned from Ohio to Virginia,
 
-Lawrence County, Ohio, Negroes immigrated into,
+Lawrence County, Ohio: [Negroes immigrated into,](chapter-03.md#lawrence-county-ohio)
 
 Liberia, freedmen sent to,
 
