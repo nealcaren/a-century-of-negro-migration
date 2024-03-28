@@ -253,7 +253,7 @@ Goodrich, William: [owner of railroad stock,](chapter-05.md#william-goodrich-rai
 
 Gordon, Robert, a successful coal dealer in Cincinnati,
 
-Grant, General U.S., protected refugees in his camp; retained them at Fort Donelson; his use of the refugees,
+Grant, General U.S.: [protected refugees in his camp; retained them at Fort Donelson;](chapter-06.md#general-grant-asylum) [his use of the refugees,](chapter-06.md#general-grant-refugees)
 
 Greener, R.T., comment of, on the exodus to Kansas; went from Philadelphia to South Carolina,
 
