@@ -341,9 +341,9 @@ Kaskaskia: [slaves of,](chapter-02.md#kaskaskia-slave-settlement)
 
 Keith, George: [interested in the Negroes,](chapter-02.md#george-keith-quaker)
 
-Kentucky: [disfranchisement of Negroes in](chpater-03#kentucky-disfranchisement-of-negroes-in); abolition society of, advocated the colonization of the blacks in the West,
+Kentucky: [disfranchisement of Negroes in](cha-ter-03#kentucky-disfranchisement-of-negroes-in); abolition society of, advocated the colonization of the blacks in the West,
 
-Key, Francis S., a colonizationist,
+Key, Francis S.: [a colonizationist,](chapter-04.md#francis-key-colonization)
 
 Kingsley, Z., a master, settled his son of color in Hayti,
 
