@@ -335,7 +335,7 @@ Julius, John: [proprietor of a cafe in which he entertained President William H.
 
 Kansas refugees, condition of; treatment of,
 
-Kaokia, slaves of,
+Kaokia: [slaves of,](chapter-01.md#kaokia-slave-settlement)
 
 Kaskaskia, slaves of,
 
