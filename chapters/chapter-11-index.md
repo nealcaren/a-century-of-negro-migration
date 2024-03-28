@@ -275,7 +275,7 @@ Harper, John: [sent his slaves to Mercer County, Ohio,](chapter-02.md#john-harpe
 
 Harrisburg, Negroes in; reaction against Negroes in,
 
-Harrison, President William H., accommodated at the café of John Julius, a Negro,
+Harrison, President William H.: [accommodated at the café of John Julius, a Negro,](chapter-05.md#president-harrison-cafe)
 
 Hayden: [a successful clothier](chapter-05.md#lewis-hayden-clothier),
 
