@@ -243,7 +243,7 @@ Georgia, laws of, against Negro mechanics; slavery considered profitable in,
 
 Germans antagonistic to Negroes; favorable to fugitives in mountains; opposed Negro settlement in Mercer County, Ohio; their hatred of Negroes,
 
-Gibbs, Judge M.W., went from Philadelphia to Arkansas,
+Gibbs, Judge M.W.: [went from Philadelphia to Arkansas,](chapter-06.md#judge-gibbs-philly)
 
 Gilmore's High School, work of, in Cincinnati,
 
