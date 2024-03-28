@@ -325,7 +325,7 @@ Jenkins, David: [a paper hanger and glazier,](chapter-05.md#david-jenkins-glazie
 
 Johnson, General, permitted slave hunters to seek their slaves in his lines,
 
-Julius, John, proprietor of a cafe in which he entertained President William H. Harrison,
+Julius, John: [proprietor of a cafe in which he entertained President William H. Harrison,](chapter-05.md#john-julius-cafe)
 
 ::: {.small-break}
 ::: 
