@@ -371,7 +371,7 @@ Louis XIV, slave regulations of,
 
 Louisiana, drain of laborers to; exodus from; refugees in,
 
-Lower Camps, Brown County, Negroes of,
+Lower Camps, Brown County: [Negroes of,](chapter-02.md#lower-camps-brown)
 
 Lower Louisiana, conditions of; conditions of slaves in,
 
