@@ -363,7 +363,7 @@ Langston, John M., returned from Ohio to Virginia,
 
 Lawrence County, Ohio: [Negroes immigrated into,](chapter-03.md#lawrence-county-ohio)
 
-Liberia, freedmen sent to,
+Liberia: [freedmen sent to,](chapter-02.md#liberia-freedmen)
 
 Lincoln, Abraham, urged withholding slaves,
 
