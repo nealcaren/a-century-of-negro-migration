@@ -112,7 +112,7 @@ Code for indentured servants in West, note,
 
 Coffin, Levi: [comment on the condition of the refugees,](chapter-06.md#levi-coffin-conditions)
 
-Coles, Edward, moved to Illinois to free his slaves; correspondence with Jefferson on slavery,
+Coles, Edward: [moved to Illinois to free his slaves](chapter-02.md#edward-coles-illinois); correspondence with Jefferson on slavery,
 
 Colgate, Richard: [master of James Wenyam who escaped to the West,](chapter-01.md#richard-colgate-master)
 
