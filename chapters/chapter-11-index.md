@@ -102,7 +102,7 @@ Cassey, Joseph, a broker in Philadelphia,
 
 Chester, T. Morris: [went from Pittsburgh to settle in Louisiana,](chapter-06.md#chester-morris-pittsburgh)
 
-Cincinnati: [friends of fugitives in](chapter-02.md#cincinnati-friends-fugitives); [mobs](chapter-03.md#cincinnati-mobs); successful Negroes of,
+Cincinnati: [friends of fugitives in](chapter-02.md#cincinnati-friends-fugitives); [mobs](chapter-03.md#cincinnati-mobs); [successful Negroes of](chapter-05.md#cincinnati-success)
 
 Clark, Edward V.: [a jeweler,](chapter-05.md#edward-clark-jeweler)
 
