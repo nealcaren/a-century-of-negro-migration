@@ -365,7 +365,7 @@ Lawrence County, Ohio: [Negroes immigrated into,](chapter-03.md#lawrence-county-
 
 Liberia: [freedmen sent to,](chapter-02.md#liberia-freedmen)
 
-Lincoln, Abraham, urged withholding slaves,
+Lincoln, Abraham: [urged withholding slaves,](chapter-06.md#lincoln-urge)
 
 Louis XIV, slave regulations of,
 
