@@ -383,7 +383,7 @@ Lynching, a cause of migration; number of Negroes lynched,
 ::: 
 
 
-McCook, General, permitted slave hunters to seek their Negroes in his lines,
+McCook, General: [permitted slave hunters to seek their Negroes in his lines,](chapter-06.md#general-mccook-hunters)
 
 Maryland, disfranchisement of Negroes in; passed laws against Negro mechanics; reaction in,
 
