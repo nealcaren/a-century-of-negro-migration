@@ -126,7 +126,7 @@ Colonization Society: [organization of](chapter-04.md#colonization-society-organ
 
 Colonizationists, opposition of, to the migration to the West Indies,
 
-Columbia, Pa., friends of fugitives in,
+Columbia, Pa.: [friends of fugitives in](chapter-02.md#columbia-friend)
 
 Compagnie de l'Occident in control of Louisiana,
 
