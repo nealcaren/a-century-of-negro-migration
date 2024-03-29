@@ -393,7 +393,7 @@ Meade, Bishop William, a colonizationist,
 
 Mercer County, Ohio, successful Negroes of; resolutions of citizens against Negroes,
 
-Miami County, Randolph's Negroes sent to,
+Miami County: [Randolph's Negroes sent to,](chapter-02.md#miami-county-freemen)
 
 Michigan, Negroes transplanted to; attitude of, toward the Negro,
 
