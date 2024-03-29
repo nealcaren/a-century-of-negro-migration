@@ -389,7 +389,7 @@ Maryland, disfranchisement of Negroes in; passed laws against Negro mechanics; r
 
 Massachusetts, exterminated slavery,
 
-Meade, Bishop William, a colonizationist,
+Meade, Bishop William: [a colonizationist,](chapter-04.md#bishop-william-meade)
 
 Mercer County, Ohio, successful Negroes of; resolutions of citizens against Negroes,
 
