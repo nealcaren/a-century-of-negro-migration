@@ -355,7 +355,7 @@ Ku Klux Klan, the work of,
 
 Labor agents promoting the migration of Negroes,
 
-Lambert, William, interest of, in the colonization of Negroes,
+Lambert, William: [interest of, in the colonization of Negroes,](chapter-04.md#william-lambert-council)
 
 Land tenure, a cause of unrest; after Reconstruction,
 
