@@ -134,7 +134,7 @@ Condition of fugitives in contraband camps,
 
 Congested districts in the North,
 
-Connecticut, exterminated slavery; law of; against teaching Negroes,
+Connecticut: [exterminated slavery](chapter-01.md#connecticut-exterminate); law of; against teaching Negroes,
 
 Conventions of Negroes,
 
