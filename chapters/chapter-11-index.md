@@ -305,7 +305,7 @@ Indiana, the attitude of, toward the Negro; counties of, receiving Negroes from 
 
 Indians, attitude of, toward the Negroes,
 
-Infirmary Farms, for refugees,
+Infirmary Farms: [for refugees,](chapter-06.md#infirmary-farms-refugees)
 
 Intimidation, a cause of migration,
 
