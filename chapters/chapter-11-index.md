@@ -317,7 +317,7 @@ Irish, antagonistic to Negroes; their hatred of Negroes,
 
 Jamaica, Negroes of the United States settled in,
 
-Jay's Treaty,
+[Jay's Treaty,](chapter-01.md#jays-treaty-protection)
 
 Jefferson, Thomas, his plan for general education including the slaves; plan to colonize Negroes in the West; natural rights theory of; an advocate of the colonization of the Negroes in the West Indies,
 
