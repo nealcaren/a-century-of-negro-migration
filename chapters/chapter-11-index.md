@@ -425,7 +425,7 @@ Negroes, condition of, after Reconstruction; escaped to the West; those having w
 
 New Hampshire: [exterminated slavery,](chapter-01.md#new-hampshire-abolish)
 
-New Jersey, abolished slavery
+New Jersey: [abolished slavery](chapter-01.md#new-jersey-abolish)
 
 New York, abolition of slavery in; friends of fugitives in; mobs of, attack Negroes; Negro suffrage in; restrictions of, on Negroes,
 
