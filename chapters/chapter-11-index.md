@@ -465,7 +465,7 @@ Palmyra, race prejudice of,
 
 Pelham, Robert A., father of, moved to Detroit,
 
-Penn, William, advocate of emancipation,
+Penn, William: [advocate of emancipation,](chapter-02.md#william-penn-advocate)
 
 Pennsylvania, effort in, to force free Negroes to support their dependents; effort to prevent immigration of Negroes; increase in the population of free Negroes of; petitions to rid the State of Negroes by colonization; era of good feeling in; exterminated slavery; the migration of freedmen from North Carolina to; Negro suffrage in; passed laws against Negro mechanics; successful Negroes of,
 
