@@ -453,7 +453,7 @@ Ordinance of 1784 rejected,
 
 Ordinance of 1787, passed; meaning of sixth article of; reasons for the passage of; did not at first disturb slavery; construction of,
 
-Otis, James, on natural rights,
+Otis, James: [on natural rights,](chapter-01.md#james-otis-rights)
 
 ::: {.small-break}
 ::: 
