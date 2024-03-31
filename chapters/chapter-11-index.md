@@ -387,7 +387,7 @@ McCook, General: [permitted slave hunters to seek their Negroes in his lines,](c
 
 Maryland, disfranchisement of Negroes in; passed laws against Negro mechanics; reaction in,
 
-Massachusetts, exterminated slavery,
+Massachusetts: [exterminated slavery,](chapter-01.md#massachusetts-exterminate)
 
 Meade, Bishop William: [a colonizationist,](chapter-04.md#bishop-william-meade)
 
