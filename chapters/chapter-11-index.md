@@ -427,7 +427,7 @@ New Hampshire: [exterminated slavery,](chapter-01.md#new-hampshire-abolish)
 
 New Jersey: [abolished slavery](chapter-01.md#new-jersey-abolish)
 
-New York, abolition of slavery in; friends of fugitives in; mobs of, attack Negroes; Negro suffrage in; restrictions of, on Negroes,
+New York: [abolition of slavery in;](chapter-01.md#new-york-abolish) friends of fugitives in; mobs of, attack Negroes; Negro suffrage in; restrictions of, on Negroes,
 
 North Carolina, Negro suffrage in; Quakers of, promoting the migration of the Negroes; reaction in,
 
