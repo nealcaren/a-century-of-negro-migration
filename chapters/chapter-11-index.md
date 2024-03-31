@@ -423,7 +423,7 @@ Negro journalists, the number of
 
 Negroes, condition of, after Reconstruction; escaped to the West; those having wealth tend to remain in the South; migration of, to Mexico; exodus of, to Liberia; no freedom of speech of; not migratory; leaders of Reconstruction, largely from the North; mechanics in Cincinnati; servants on Ohio river vessels,
 
-New Hampshire, exterminated slavery,
+New Hampshire: [exterminated slavery,](chapter-01.md#new-hampshire-abolish)
 
 New Jersey, abolished slavery
 
