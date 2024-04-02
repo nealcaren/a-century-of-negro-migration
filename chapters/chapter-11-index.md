@@ -245,7 +245,7 @@ Germans antagonistic to Negroes; favorable to fugitives in mountains; opposed Ne
 
 Gibbs, Judge M.W.: [went from Philadelphia to Arkansas,](chapter-06.md#judge-gibbs-philly)
 
-Gilmore's High School, work of, in Cincinnati,
+Gilmore's High School: [work of, in Cincinnati,](chapter-05.md#gilmore-hs-cincy)
 
 Gist, Samuel: [settled his Negroes in Ohio,](chapter-02.md#samuel-gist-settle)
 
