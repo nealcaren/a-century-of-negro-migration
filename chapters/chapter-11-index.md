@@ -269,7 +269,7 @@ Guild of Caterers: [in Philadelphia,](chapter-05.md#guild-of-caterers-group)
 
 Halleck, General: [excluded slaves from his lines,](chapter-06.md#general-halleck-excluded)
 
-Harlan, Robert, a horseman,
+Harlan, Robert: [a horseman,](chapter-05.md#robert-harlan-horse)
 
 Harper, John: [sent his slaves to Mercer County, Ohio,](chapter-02.md#john-harper-settle)
 
