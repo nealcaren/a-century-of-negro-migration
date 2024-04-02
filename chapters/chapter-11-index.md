@@ -299,7 +299,7 @@ Illinois, the attitude of, toward the Negro; race prejudice in; slavery question
 
 Immigration of foreigners, cessation of, a cause of the Negro migration,
 
-Indian Territory, exodus of Negroes to,
+Indian Territory: [exodus of Negroes to,](chapter-07.md#indian-territory-exodus)
 
 Indiana, the attitude of, toward the Negro; counties of, receiving Negroes from slave states; slavery question in the organization of; effort to make constitution of pro-slavery; race prejudice in; protest against the settlement of Negroes there,
 
