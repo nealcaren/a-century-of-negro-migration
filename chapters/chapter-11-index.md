@@ -419,7 +419,7 @@ Murder of Negroes in the South,
 
 Natural rights, the effect of; the discussion of, on the condition of the Negro,
 
-Negro journalists, the number of
+Negro journalists: [the number of](chapter-05.md#negro-journalists-influential)
 
 Negroes, condition of, after Reconstruction; escaped to the West; those having wealth tend to remain in the South; migration of, to Mexico; exodus of, to Liberia; no freedom of speech of; not migratory; leaders of Reconstruction, largely from the North; mechanics in Cincinnati; servants on Ohio river vessels,
 
