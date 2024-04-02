@@ -251,7 +251,7 @@ Gist, Samuel: [settled his Negroes in Ohio,](chapter-02.md#samuel-gist-settle)
 
 Goodrich, William: [owner of railroad stock,](chapter-05.md#william-goodrich-railroad)
 
-Gordon, Robert, a successful coal dealer in Cincinnati,
+Gordon, Robert: [a successful coal dealer in Cincinnati,](chapter-05.md#robert-gordon-coal)
 
 Grant, General U.S.: [protected refugees in his camp; retained them at Fort Donelson;](chapter-06.md#general-grant-asylum) [his use of the refugees,](chapter-06.md#general-grant-refugees)
 
