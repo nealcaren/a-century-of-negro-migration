@@ -307,7 +307,7 @@ Indians, attitude of, toward the Negroes,
 
 Infirmary Farms: [for refugees,](chapter-06.md#infirmary-farms-refugees)
 
-Intimidation, a cause of migration,
+Intimidation: [a cause of migration,](chapter-08.md#intimidation-cause-migration)
 
 Irish, antagonistic to Negroes; their hatred of Negroes,
 
