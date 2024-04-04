@@ -667,7 +667,7 @@ Wayne County, Indiana, freedmen settled in,
 
 Webb, William, interest of, in colonization,
 
-Wenyam, James, ran away to the West,
+Wenyam, James: [ran away to the West](chapter-01.md#james-wenyam-slave)
 
 West Indies, attractive to free Negroes,
 
