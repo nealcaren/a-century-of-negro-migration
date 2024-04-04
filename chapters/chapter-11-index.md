@@ -687,7 +687,7 @@ Wickham, executor of Samuel Gist, settled Gist's Negroes in Ohio,
 
 Wilberforce University established at a slave settlement,
 
-Wilcox, Samuel T., a merchant of Cincinnati,
+Wilcox, Samuel T.: [a merchant of Cincinnati](chapter-05.md#samuel-wilcox-merchant)
 
 ::: {.small-break}
 ::: 
