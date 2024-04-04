@@ -155,7 +155,7 @@ Cuffé, Paul: [an actual colonizationist,](chapter-04.md#paul-cuffe-colonization
 
 Davis: [comment on freedmen's vagrancy,](chapter-06.md#davis-vagrancy)
 
-De Baptiste, Richard, father of, in Detroit,
+DeBaptiste, Richard: [father of](chapter-02.md#richard-debaptiste-father); in Detroit,
 
 Debasement of the blacks after Reconstruction,
 
