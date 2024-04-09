@@ -359,7 +359,7 @@ Lambert, William: [interest of, in the colonization of Negroes,](chapter-04.md#w
 
 Land tenure, a cause of unrest; after Reconstruction,
 
-Langston, John M., returned from Ohio to Virginia,
+Langston, John M.: [returned from Ohio to Virginia,](chapter-06.md#james-langston-ohio)
 
 Lawrence County, Ohio: [Negroes immigrated into,](chapter-03.md#lawrence-county-ohio)
 
