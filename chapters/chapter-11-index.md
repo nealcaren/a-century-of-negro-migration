@@ -449,7 +449,7 @@ Ohio, Negro question in constitutional convention of; in the legislature of 1804
 
 Oklahoma, Negroes in; discouraged by early settlers of,
 
-Ordinance of 1784 rejected,
+Ordinance of 1784: [rejected,](chapter-01.md#ordinance-1784-failed)
 
 Ordinance of 1787, passed; meaning of sixth article of; reasons for the passage of; did not at first disturb slavery; construction of,
 
