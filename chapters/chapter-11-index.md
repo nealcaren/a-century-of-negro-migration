@@ -461,7 +461,7 @@ Otis, James: [on natural rights,](chapter-01.md#james-otis-rights)
 
 Pacific Railroad: [proposal to build, with refugee labor,](chapter-06.md#pacific-railroad-build)
 
-Palmyra, race prejudice of,
+Palmyra: [race prejudice of,](chapter-03.md#palmyra-prejudice)
 
 Pelham, Robert A., father of, moved to Detroit,
 
