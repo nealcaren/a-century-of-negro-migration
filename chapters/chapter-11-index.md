@@ -493,7 +493,7 @@ Portsmouth, friends of fugitives of,
 
 Portsmouth, Ohio, mob of, drives Negroes out; progressive Negroes of,
 
-Prairie du Rocher, slaves of,
+Prairie du Rocher: [slaves of,](chapter-01.md#prairie-du-rocher-slaves)
 
 Press comments on sending Negroes to Africa,
 
