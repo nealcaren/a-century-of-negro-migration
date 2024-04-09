@@ -287,7 +287,7 @@ Hill of Chillicothe, a tanner and currier,
 
 Holly, James T., interest of, in colonization,
 
-Hood, James W.: [went from Connecticut to North Carolina,}](chapter-06.md#james-w-hood-bishop)
+Hood, James W.: [went from Connecticut to North Carolina,](chapter-06.md#james-w-hood-bishop)
 
 Hunter, General, dealing with the refugees in South Carolina
 
