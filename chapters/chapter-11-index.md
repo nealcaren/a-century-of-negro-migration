@@ -399,7 +399,7 @@ Michigan, Negroes transplanted to; attitude of, toward the Negro,
 
 Migration, the, of the talented tenth; handicaps of; of politicians to Washington; of educated Negroes; of the intelligent laboring class; effect of Negroes' prospective political power; to northern cities,
 
-Miles, N.E., interest in stopping the exodus to Kansas,
+Miles, N.E.: [interest in stopping the exodus to Kansas,](chapter-07.md#general-nr-miles)
 
 Mississippi, drain of laborers to; exodus from; refugees in; slaves along,
 
