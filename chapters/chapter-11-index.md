@@ -403,7 +403,7 @@ Miles, N.E.: [interest in stopping the exodus to Kansas,](chapter-07.md#general-
 
 Mississippi, drain of laborers to; exodus from; refugees in; slaves along,
 
-Morgan, Senator, of Alabama, interested in sending the Negroes to Africa,
+Morgan, Senator, of Alabama: [interested in sending the Negroes to Africa,](chapter-08.md#senator-morgan-bama)
 
 Movement of the blacks to the western territory; promoted by Quakers,
 
