@@ -347,7 +347,7 @@ Key, Francis S.: [a colonizationist,](chapter-04.md#francis-key-colonization)
 
 Kingsley, Z., a master, settled his son of color in Hayti,
 
-Ku Klux Klan, the work of,
+Ku Klux Klan: [the work of,](chapter-07.md#klan-murders)
 
 ::: {.small-break}
 ::: 
