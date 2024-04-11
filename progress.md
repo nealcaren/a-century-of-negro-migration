@@ -101,5 +101,5 @@
 - NPC: I think I accidentally put that reference to maps in chapter 6. Gone now.
 
 ### 4/11
-- RS: Back at it again! Going to Index page and starting with Canterbury.
+- RS: Back at it again! Canterbury, people of-Colonization, as a solution to migration indexed.
 - 
