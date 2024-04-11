@@ -92,13 +92,13 @@ Canada: [the migration of Negroes to](chapter-02.md#canada-migration-to); [settl
 
 Canadians: [supply of slaves of](chapter-01.md#canadians-supply); [prohibited the importation of slaves](chapter-01.md#canadians-prohibit)
 
-Canterbury, people of, imprison Prudence Crandall because she taught Negroes,
+Canterbury, people of: [imprison Prudence Crandall because she taught Negroes,](chapter-03.md#canterbury-imprison-prudence-crandall)
 
 Cardoza, F.L.: [return of from Edinburgh to South Carolina,](chapter-06.md#fl-cardoza-return)
 
 Cassey, Joseph C.: [a lumber merchant](chapter-05.md#joseph-cassey-lumber)
 
-Cassey, Joseph, a broker in Philadelphia,
+Casey, Joseph: [a broker in Philadelphia,](chapter-05.md#joseph-casey-broker)
 
 Chester, T. Morris: [went from Pittsburgh to settle in Louisiana,](chapter-06.md#chester-morris-pittsburgh)
 
@@ -108,7 +108,7 @@ Clark, Edward V.: [a jeweler,](chapter-05.md#edward-clark-jeweler)
 
 Clay, Henry: [a colonizationist](chapter-04.md#henry-clay-colonization)
 
-Code for indentured servants in West, note,
+Code for indentured servants in West: [note,](chapter-01.md#code-for-indentured-servants-note)
 
 Coffin, Levi: [comment on the condition of the refugees,](chapter-06.md#levi-coffin-conditions)
 
@@ -120,7 +120,7 @@ Collins, Henry M.: [interest of, in colonization;](chapter-04.md#henry-collins-i
 
 Corbin, J.C.: [return of, from Chillicothe to Arkansas,](chapter-06.md#jc-corbin-return)
 
-Colonization proposed as a remedy for migration, in the West; organization of society of; failure to remove free Negroes; opposed by free people of color; meetings of, in the interest of the West Indies; impeded by the exodus to the West Indies; a remedy for migration,
+Colonization: [proposed as a remedy for migration;](chapter-04.md#colonization-remedy-migration) in the West; organization of society of; failure to remove free Negroes; opposed by free people of color; meetings of, in the interest of the West Indies; impeded by the exodus to the West Indies; a remedy for migration,
 
 Colonization Society: [organization of](chapter-04.md#colonization-society-organization); [renewed efforts of](chapter-08.md#colonization-society-renewal)
 
