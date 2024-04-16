@@ -485,7 +485,7 @@ Platt, William, a lumber merchant,
 
 Political power, not to be the only aim of the migrants; the mistakes of such a policy,
 
-Polities, a cause of unrest,
+Polities: [a cause of unrest,](chapter-08.md#politics-unrest)
 
 Pollard, N.W., agent of the Government of Trinidad, sought Negroes in the United States,
 
