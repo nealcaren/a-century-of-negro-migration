@@ -437,7 +437,7 @@ Northwest, few Negroes in, at first; hesitation to go there because of the ordin
 
 Noyes Academy, broken up because it admitted Negroes,
 
-Nugent, Colonel W.L., interest in stopping the exodus to Kansas,
+Nugent, Colonel W.L.: [interest in stopping the exodus to Kansas,](chapter-07.md#colonel-wl-nugent)
 
 ::: {.small-break}
 ::: 
