@@ -128,7 +128,7 @@ Colonizationists: [opposition of, to the migration to the West Indies,](chapter-
 
 Columbia, Pa.: [friends of fugitives in](chapter-02.md#columbia-friend)
 
-Compagnie de l'Occident in control of Louisiana,
+Compagnie de l'Occident: [in control of Louisiana](chapter-01.md#compagnie-control-louisiana)
 
 Condition of fugitives in contraband camps,
 
