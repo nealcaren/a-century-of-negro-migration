@@ -159,7 +159,7 @@ De Baptiste, Richard: [father of](chapter-02.md#richard-debaptiste-father); [in 
 
 Debasement of the blacks after Reconstruction,
 
-Delany, Martin R., interest of, in colonization,
+Delany, Martin R.: [interest of, in colonization,](chapter-04.md#martin-delaney-interest)
 
 De Tocqueville: [observation of, on the condition of free Negroes in the North,](chapter-03.md#de-tocqueville-observe)
 
