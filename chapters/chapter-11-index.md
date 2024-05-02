@@ -120,7 +120,7 @@ Collins, Henry M.: [interest of, in colonization;](chapter-04.md#henry-collins-i
 
 Corbin, J.C.: [return of, from Chillicothe to Arkansas,](chapter-06.md#jc-corbin-return)
 
-Colonization: [proposed as a remedy for migration;](chapter-04.md#colonization-remedy-migration) in the West; organization of society of; failure to remove free Negroes; opposed by free people of color; meetings of, in the interest of the West Indies; impeded by the exodus to the West Indies; a remedy for migration,
+Colonization: [proposed as a remedy for migration;](chapter-04.md#colonization-remedy-migration) [in the West](chapter-01.md#colonization-west-1); organization of society of; failure to remove free Negroes; opposed by free people of color; meetings of, in the interest of the West Indies; impeded by the exodus to the West Indies; a remedy for migration,
 
 Colonization Society: [organization of](chapter-04.md#colonization-society-organization); [renewed efforts of](chapter-08.md#colonization-society-renewal)
 
