@@ -124,7 +124,7 @@ Colonization: [proposed as a remedy for migration;](chapter-04.md#colonization-r
 
 Colonization Society: [organization of](chapter-04.md#colonization-society-organization); [renewed efforts of](chapter-08.md#colonization-society-renewal)
 
-Colonizationists, opposition of, to the migration to the West Indies,
+Colonizationists: [opposition of, to the migration to the West Indies,](chapter-04.md#colonizationists-opposition-of-west-indies-migration)
 
 Columbia, Pa.: [friends of fugitives in](chapter-02.md#columbia-friend)
 
